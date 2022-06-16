@@ -1,0 +1,20 @@
+,id,counts,atlas_id,name,acronym,st_level,ontology_id,hemisphere_id,weight,parent_structure_id,depth,graph_id,graph_order,structure_id_path,color_hex_triplet,neuro_name_structure_id,neuro_name_structure_id_path,failed,sphinx_id,structure_name_facet,failed_facet,safe_name
+2,329,274344,748.0,"Primary somatosensory area, barrel field",SSp-bfd,9,1,3,8690,322.0,8,1,51,/997/8/567/688/695/315/453/322/329/,188064,,,f,52,3406319794,734881840,Primary somatosensory area barrel field
+1,301,56398,603.0,stria terminalis,st,8,1,3,8690,768.0,4,1,1259,/997/1009/991/768/301/,CCCCCC,,,f,1260,2061919402,734881840,stria terminalis
+14,776,51509,662.0,corpus callosum,cc,8,1,3,8690,983.0,3,1,1191,/997/1009/983/776/,CCCCCC,,,f,1192,3022588286,734881840,corpus callosum
+7,375,26917,46.0,Ammon's horn,CA,8,1,3,8690,1080.0,7,1,456,/997/8/567/688/695/1089/1080/375/,7ED04B,,,f,457,1703331408,734881840,Ammon's horn
+16,1099,20107,561.0,fornix system,fxs,8,1,3,8690,768.0,4,1,1244,/997/1009/991/768/1099/,CCCCCC,,,f,1245,2860735463,734881840,fornix system
+12,618,13407,501.0,hippocampal commissures,hc,9,1,3,8690,1099.0,5,1,1253,/997/1009/991/768/1099/618/,CCCCCC,,,f,1254,4236453345,734881840,hippocampal commissures
+17,182305689,12052,,"Primary somatosensory area, unassigned",SSp-un,9,1,3,8690,322.0,8,1,93,/997/8/567/688/695/315/453/322/182305689/,188064,,,f,94,10092796,734881840,Primary somatosensory area unassigned
+8,378,11342,754.0,Supplemental somatosensory area,SSs,8,1,3,8690,453.0,7,1,100,/997/8/567/688/695/315/453/378/,188064,,,f,101,713142416,734881840,Supplemental somatosensory area
+15,1009,7992,691.0,fiber tracts,fiber tracts,1,1,3,8690,997.0,1,1,1101,/997/1009/,CCCCCC,,,f,1102,771268094,734881840,fiber tracts
+4,353,7491,751.0,"Primary somatosensory area, nose",SSp-n,9,1,3,8690,322.0,8,1,44,/997/8/567/688/695/315/453/322/353/,188064,,,f,45,3014838097,734881840,Primary somatosensory area nose
+11,485,5977,343.0,Striatum dorsal region,STRd,6,1,3,8690,477.0,5,1,572,/997/8/567/623/477/485/,98D6F9,,,f,573,598493306,734881840,Striatum dorsal region
+10,417,4685,759.0,Rostrolateral visual area,VISrl,8,1,3,8690,22.0,7,1,353,/997/8/567/688/695/315/22/417/,009FAC,,,f,354,1848950861,734881840,Rostrolateral visual area
+3,337,4280,749.0,"Primary somatosensory area, lower limb",SSp-ll,9,1,3,8690,322.0,8,1,65,/997/8/567/688/695/315/453/322/337/,188064,,,f,66,533428449,734881840,Primary somatosensory area lower limb
+6,369,806,753.0,"Primary somatosensory area, upper limb",SSp-ul,9,1,3,8690,322.0,8,1,79,/997/8/567/688/695/315/453/322/369/,188064,,,f,80,3184285306,734881840,Primary somatosensory area upper limb
+9,385,515,755.0,Primary visual area,VISp,8,1,3,8690,669.0,7,1,185,/997/8/567/688/695/315/669/385/,08858C,,,f,186,3425643282,734881840,Primary visual area
+5,361,133,752.0,"Primary somatosensory area, trunk",SSp-tr,9,1,3,8690,322.0,8,1,86,/997/8/567/688/695/315/453/322/361/,188064,,,f,87,2078745056,734881840,Primary somatosensory area trunk
+18,312782546,84,,Anterior area,VISa,8,1,3,8690,22.0,7,1,346,/997/8/567/688/695/315/22/312782546/,009FAC,,,f,347,3402453642,734881840,Anterior area
+13,768,60,661.0,cerebrum related,mfbc,7,1,3,8690,991.0,3,1,1239,/997/1009/991/768/,CCCCCC,,,f,1240,1315990495,734881840,cerebrum related
+0,81,11,717.0,lateral ventricle,VL,8,1,3,8690,73.0,2,1,1293,/997/73/81/,AAAAAA,,,f,1294,1797046580,734881840,lateral ventricle

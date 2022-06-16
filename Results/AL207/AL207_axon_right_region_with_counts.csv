@@ -1,0 +1,88 @@
+id,atlas_id,name,acronym,st_level,ontology_id,hemisphere_id,weight,parent_structure_id,depth,graph_id,graph_order,structure_id_path,color_hex_triplet,neuro_name_structure_id,neuro_name_structure_id_path,failed,sphinx_id,structure_name_facet,failed_facet,safe_name,counts
+101,861.0,Ventral cochlear nucleus,VCO,8,1,3,8690,607.0,7,1,942,/997/8/343/1065/354/386/607/101/,FFA5D2,,,f,943,1142812669,734881840,Ventral cochlear nucleus,2
+658,506.0,lateral lemniscus,ll,10,1,3,8690,948.0,5,1,1140,/997/1009/967/933/948/658/,CCCCCC,,,f,1141,2249670554,734881840,lateral lemniscus,1762
+866,532.0,ventral spinocerebellar tract,sctv,9,1,3,8690,326.0,5,1,1178,/997/1009/960/752/326/866/,CCCCCC,,,f,1179,744035824,734881840,ventral spinocerebellar tract,1120
+17,426.0,"Superior colliculus, motor related, intermediate white layer",SCiw,9,1,3,8690,294.0,6,1,833,/997/8/343/313/323/294/17/,FF90FF,,,f,834,2563539216,734881840,Superior colliculus motor related intermediate white layer,1439
+549009215,,Peritrigeminal zone,P5,8,1,3,8690,987.0,6,1,920,/997/8/343/1065/771/987/549009215/,FFBA86,,,f,921,2750316450,734881840,Peritrigeminal zone,78
+621,360.0,Motor nucleus of trigeminal,V,8,1,3,8690,987.0,6,1,919,/997/8/343/1065/771/987/621/,FFBA86,,,f,920,298495636,734881840,Motor nucleus of trigeminal,2
+374,329.0,"Substantia nigra, compact part",SNc,8,1,3,8690,348.0,5,1,866,/997/8/343/313/348/374/,FFA6FF,,,f,867,591190689,734881840,Substantia nigra compact part,1709
+1077,275.0,Perireunensis nucleus,PR,8,1,3,8690,444.0,7,1,690,/997/8/343/1129/549/856/444/1077/,FF909F,,,f,691,985229058,734881840,Perireunensis nucleus,14
+128,864.0,Midbrain reticular nucleus,MRN,8,1,3,8690,323.0,5,1,826,/997/8/343/313/323/128/,FF90FF,,,f,827,2371196921,734881840,Midbrain reticular nucleus,74
+1015,975.0,"Anterior cingulate area, dorsal part, layer 5",ACAd5,11,1,3,8690,39.0,8,1,229,/997/8/567/688/695/315/31/39/1015/,40A666,,,f,230,3023161855,734881840,Anterior cingulate area dorsal part layer 5,4167
+1033,411.0,Copula pyramidis,COPY,8,1,3,8690,1073.0,5,1,1084,/997/8/512/528/1073/1033/,FFFC91,,,f,1085,2916242466,734881840,Copula pyramidis,237
+1041,412.0,Paraflocculus,PFL,8,1,3,8690,1073.0,5,1,1088,/997/8/512/528/1073/1041/,FFFC91,,,f,1089,775625608,734881840,Paraflocculus,5
+549,351.0,Thalamus,TH,5,1,3,8690,1129.0,4,1,641,/997/8/343/1129/549/,FF7080,,,f,642,3417047876,734881840,Thalamus,67
+784,663.0,corticospinal tract,cst,8,1,3,8690,983.0,3,1,1200,/997/1009/983/784/,CCCCCC,,,f,1201,2338134602,734881840,corticospinal tract,287
+146,442.0,Pontine reticular nucleus,PRNr,8,1,3,8690,1117.0,6,1,931,/997/8/343/1065/771/1117/146/,FFC395,,,f,932,1626550003,734881840,Pontine reticular nucleus,472
+794,523.0,spinal tract of the trigeminal nerve,sptV,10,1,3,8690,229.0,5,1,1129,/997/1009/967/901/229/794/,CCCCCC,,,f,1130,853181822,734881840,spinal tract of the trigeminal nerve,33919
+599,74.0,Central medial nucleus of the thalamus,CM,8,1,3,8690,51.0,7,1,698,/997/8/343/1129/549/856/51/599/,FF909F,,,f,699,769425900,734881840,Central medial nucleus of the thalamus,264
+225,452.0,Spinal vestibular nucleus,SPIV,8,1,3,8690,701.0,7,1,1004,/997/8/343/1065/354/370/701/225/,FFB3D9,,,f,1005,3627168871,734881840,Spinal vestibular nucleus,3050
+924,539.0,cerebal peduncle,cpd,9,1,3,8690,784.0,4,1,1202,/997/1009/983/784/924/,CCCCCC,,,f,1203,993976011,734881840,cerebal peduncle,8678
+648,929.0,"Primary motor area, Layer 5",MOp5,11,1,3,8690,985.0,8,1,21,/997/8/567/688/695/315/500/985/648/,1F9D5A,,,f,22,628930507,734881840,Primary motor area Layer 5,2
+903,112.0,External cuneate nucleus,ECU,8,1,3,8690,386.0,6,1,946,/997/8/343/1065/354/386/903/,FFA5D2,,,f,947,868005914,734881840,External cuneate nucleus,7544
+189,306.0,Rhomboid nucleus,RH,8,1,3,8690,51.0,7,1,697,/997/8/343/1129/549/856/51/189/,FF909F,,,f,698,2507270646,734881840,Rhomboid nucleus,1460
+78,575.0,middle cerebellar peduncle,mcp,8,1,3,8690,752.0,4,1,1179,/997/1009/960/752/78/,CCCCCC,,,f,1180,733008278,734881840,middle cerebellar peduncle,7350
+795,240.0,Periaqueductal gray,PAG,8,1,3,8690,323.0,5,1,838,/997/8/343/313/323/795/,FF90FF,,,f,839,3260726339,734881840,Periaqueductal gray,843
+10,425.0,"Superior colliculus, motor related, intermediate gray layer",SCig,9,1,3,8690,294.0,6,1,834,/997/8/343/313/323/294/10/,FF90FF,,,f,835,4208210812,734881840,Superior colliculus motor related intermediate gray layer,328
+962,1110.0,"Secondary motor area, layer 2/3",MOs2/3,11,1,3,8690,993.0,8,1,26,/997/8/567/688/695/315/500/993/962/,1F9D5A,,,f,27,3274108161,734881840,Secondary motor area layer 2/3,14951
+549009223,,Parvicellular motor 5 nucleus,PC5,8,1,3,8690,987.0,6,1,922,/997/8/343/1065/771/987/549009223/,FFBA86,,,f,923,2234903594,734881840,Parvicellular motor 5 nucleus,43
+153,726.0,lateral recess,V4r,9,1,3,8690,145.0,3,1,1302,/997/73/145/153/,AAAAAA,,,f,1303,4006455201,734881840,lateral recess,16279
+1093,277.0,"Pontine reticular nucleus, caudal part",PRNc,8,1,3,8690,987.0,6,1,913,/997/8/343/1065/771/987/1093/,FFBA86,,,f,914,3254684830,734881840,Pontine reticular nucleus caudal part,3719
+841,529.0,trapezoid body,tb,10,1,3,8690,948.0,5,1,1137,/997/1009/967/933/948/841/,CCCCCC,,,f,1138,1491826042,734881840,trapezoid body,219
+206,308.0,Nucleus raphe magnus,RM,8,1,3,8690,379.0,6,1,1011,/997/8/343/1065/354/379/206/,FFC6E2,,,f,1012,2906210024,734881840,Nucleus raphe magnus,3382
+612,217.0,Nucleus of the lateral lemniscus,NLL,8,1,3,8690,1132.0,6,1,885,/997/8/343/1065/771/1132/612/,FFAE6F,,,f,886,3619563008,734881840,Nucleus of the lateral lemniscus,3401
+222,310.0,Nucleus raphe obscurus,RO,8,1,3,8690,379.0,6,1,1013,/997/8/343/1065/354/379/222/,FFC6E2,,,f,1014,2676196695,734881840,Nucleus raphe obscurus,72
+96,860.0,Dorsal cochlear nucleus,DCO,8,1,3,8690,607.0,7,1,941,/997/8/343/1065/354/386/607/96/,FFA5D2,,,f,942,1628596813,734881840,Dorsal cochlear nucleus,4154
+587,214.0,Nucleus of Darkschewitsch,ND,9,1,3,8690,795.0,6,1,841,/997/8/343/313/323/795/587/,FF90FF,,,f,842,4174754247,734881840,Nucleus of Darkschewitsch,803
+211,1016.0,"Anterior cingulate area, dorsal part, layer 2/3",ACAd2/3,11,1,3,8690,39.0,8,1,228,/997/8/567/688/695/315/31/39/211/,40A666,,,f,229,2563141206,734881840,Anterior cingulate area dorsal part layer 2/3,10176
+445,338.0,"Spinal nucleus of the trigeminal, oral part",SPVO,9,1,3,8690,386.0,6,1,956,/997/8/343/1065/354/386/445/,FFA5D2,,,f,957,2940691791,734881840,Spinal nucleus of the trigeminal oral part,2543
+114,438.0,"Superior olivary complex, lateral part",SOCl,9,1,3,8690,398.0,7,1,905,/997/8/343/1065/771/1132/398/114/,FFAE6F,,,f,906,98062534,734881840,Superior olivary complex lateral part,153
+832,669.0,oculomotor nerve,IIIn,8,1,3,8690,967.0,3,1,1119,/997/1009/967/832/,CCCCCC,,,f,1120,4065434170,734881840,oculomotor nerve,83
+217,451.0,Superior vestibular nucleus,SUV,8,1,3,8690,701.0,7,1,1005,/997/8/343/1065/354/370/701/217/,FFB3D9,,,f,1006,1654500180,734881840,Superior vestibular nucleus,4205
+354,185.0,Medulla,MY,5,1,3,8690,1065.0,4,1,935,/997/8/343/1065/354/,FF9BCD,,,f,936,1659540268,734881840,Medulla,29657
+381,330.0,"Substantia nigra, reticular part",SNr,8,1,3,8690,323.0,5,1,822,/997/8/343/313/323/381/,FF90FF,,,f,823,1375238552,734881840,Substantia nigra reticular part,35693
+943,966.0,"Primary motor area, Layer 2/3",MOp2/3,11,1,3,8690,985.0,8,1,20,/997/8/567/688/695/315/500/985/943/,1F9D5A,,,f,21,2488357079,734881840,Primary motor area Layer 2/3,131
+336,607.0,superior colliculus commissure,csc,9,1,3,8690,848.0,4,1,1115,/997/1009/967/848/336/,CCCCCC,,,f,1116,4201356620,734881840,superior colliculus commissure,24
+1123,564.0,inferior cerebellar peduncle,icp,8,1,3,8690,752.0,4,1,1180,/997/1009/960/752/1123/,CCCCCC,,,f,1181,202676826,734881840,inferior cerebellar peduncle,29632
+656,930.0,"Secondary motor area, layer 1",MOs1,11,1,3,8690,993.0,8,1,25,/997/8/567/688/695/315/500/993/656/,1F9D5A,,,f,26,4032915713,734881840,Secondary motor area layer 1,82
+997,-1.0,root,root,0,1,3,8690,,0,1,0,/997/,FFFFFF,,,f,1,385153371,734881840,root,5170
+673,508.0,mammillary peduncle,mp,9,1,3,8690,46.0,5,1,1281,/997/1009/991/824/46/673/,CCCCCC,,,f,1282,4130265730,734881840,mammillary peduncle,820
+765,378.0,Nucleus x,x,8,1,3,8690,370.0,6,1,1006,/997/8/343/1065/354/370/765/,FFB3D9,,,f,1007,1096772000,734881840,Nucleus x,736
+506,487.0,dorsal acoustic stria,das,10,1,3,8690,948.0,5,1,1139,/997/1009/967/933/948/506/,CCCCCC,,,f,1140,2563848709,734881840,dorsal acoustic stria,156
+968,403.0,Nodulus (X),NOD,8,1,3,8690,645.0,5,1,1062,/997/8/512/528/645/968/,FFFC91,,,f,1063,626869262,734881840,Nodulus (X),678
+852,247.0,Parvicellular reticular nucleus,PARN,8,1,3,8690,370.0,6,1,988,/997/8/343/1065/354/370/852/,FFB3D9,,,f,989,3605828329,734881840,Parvicellular reticular nucleus,1550
+512,63.0,Cerebellum,CB,2,1,3,8690,8.0,2,1,1014,/997/8/512/,F0F080,,,f,1015,4069546324,734881840,Cerebellum,731
+437,337.0,"Spinal nucleus of the trigeminal, interpolar part",SPVI,9,1,3,8690,386.0,6,1,955,/997/8/343/1065/354/386/437/,FFA5D2,,,f,956,3412250118,734881840,Spinal nucleus of the trigeminal interpolar part,41811
+574,354.0,Tegmental reticular nucleus,TRN,8,1,3,8690,987.0,6,1,918,/997/8/343/1065/771/987/574/,FFBA86,,,f,919,2119502237,734881840,Tegmental reticular nucleus,2451
+181,305.0,Nucleus of reuniens,RE,8,1,3,8690,571.0,7,1,694,/997/8/343/1129/549/856/571/181/,FF909F,,,f,695,2113641023,734881840,Nucleus of reuniens,1038
+771,237.0,Pons,P,5,1,3,8690,1065.0,4,1,883,/997/8/343/1065/771/,FF9B88,,,f,884,2612017676,734881840,Pons,8471
+1043,554.0,crossed tectospinal pathway,tspc,9,1,3,8690,877.0,4,1,1229,/997/1009/1000/877/1043/,CCCCCC,,,f,1230,3614935982,734881840,crossed tectospinal pathway,439
+145,725.0,fourth ventricle,V4,8,1,3,8690,73.0,2,1,1301,/997/73/145/,AAAAAA,,,f,1302,2366263365,734881840,fourth ventricle,133
+642,221.0,Nucleus of the trapezoid body,NTB,8,1,3,8690,386.0,6,1,947,/997/8/343/1065/354/386/642/,FFA5D2,,,f,948,3384679656,734881840,Nucleus of the trapezoid body,236
+859,248.0,Parasolitary nucleus,PAS,8,1,3,8690,370.0,6,1,989,/997/8/343/1065/354/370/859/,FFB3D9,,,f,990,2326551911,734881840,Parasolitary nucleus,579
+372,470.0,Infracerebellar nucleus,ICB,8,1,3,8690,370.0,6,1,976,/997/8/343/1065/354/370/372/,FFB3D9,,,f,977,7302009,734881840,Infracerebellar nucleus,12
+679,84.0,Superior central nucleus raphe,CS,8,1,3,8690,1117.0,6,1,925,/997/8/343/1065/771/1117/679/,FFC395,,,f,926,734395698,734881840,Superior central nucleus raphe,753
+589508455,,Vestibulocerebellar nucleus,VeCB,8,1,3,8690,519.0,4,1,1100,/997/8/512/519/589508455/,FFFDBC,,,f,1101,3164461348,734881840,Vestibulocerebellar nucleus,1000
+429,336.0,"Spinal nucleus of the trigeminal, caudal part",SPVC,9,1,3,8690,386.0,6,1,954,/997/8/343/1065/354/386/429/,FFA5D2,,,f,955,3872657876,734881840,Spinal nucleus of the trigeminal caudal part,102
+313,180.0,Midbrain,MB,5,1,3,8690,343.0,3,1,806,/997/8/343/313/,FF64FF,,,f,807,789921203,734881840,Midbrain,8223
+711,88.0,Cuneate nucleus,CU,8,1,3,8690,720.0,7,1,944,/997/8/343/1065/354/386/720/711/,FFA5D2,,,f,945,1566278280,734881840,Cuneate nucleus,1991
+237,595.0,solitary tract,ts,9,1,3,8690,917.0,4,1,1145,/997/1009/967/917/237/,CCCCCC,,,f,1146,3517832558,734881840,solitary tract,46
+209,450.0,Lateral vestibular nucleus,LAV,8,1,3,8690,701.0,7,1,1002,/997/8/343/1065/354/370/701/209/,FFB3D9,,,f,1003,2027918559,734881840,Lateral vestibular nucleus,860
+935,965.0,"Anterior cingulate area, dorsal part, layer 1",ACAd1,11,1,3,8690,39.0,8,1,227,/997/8/567/688/695/315/31/39/935/,40A666,,,f,228,3009154534,734881840,Anterior cingulate area dorsal part layer 1,3182
+542,633.0,"Retrosplenial area, ventral part, layer 1",RSPv1,11,1,3,8690,886.0,8,1,333,/997/8/567/688/695/315/254/886/542/,1AA698,,,f,334,1320301965,734881840,Retrosplenial area ventral part layer 1,335
+108,720.0,choroid plexus,chpl,9,1,3,8690,81.0,3,1,1296,/997/73/81/108/,AAAAAA,,,f,1297,1492204019,734881840,choroid plexus,10009
+1048,130.0,Gigantocellular reticular nucleus,GRN,8,1,3,8690,370.0,6,1,975,/997/8/343/1065/354/370/1048/,FFB3D9,,,f,976,3365807362,734881840,Gigantocellular reticular nucleus,145
+728,656.0,arbor vitae,arb,8,1,3,8690,960.0,3,1,1188,/997/1009/960/728/,CCCCCC,,,f,1189,756994283,734881840,arbor vitae,5
+767,944.0,"Secondary motor area, layer 5",MOs5,11,1,3,8690,993.0,8,1,27,/997/8/567/688/695/315/500/993/767/,1F9D5A,,,f,28,4144803096,734881840,Secondary motor area layer 5,11531
+697,511.0,medial lemniscus,ml,9,1,3,8690,932.0,5,1,1159,/997/1009/967/792/932/697/,CCCCCC,,,f,1160,3519337805,734881840,medial lemniscus,1486
+863,673.0,rubrospinal tract,rust,8,1,3,8690,1000.0,3,1,1230,/997/1009/1000/863/,CCCCCC,,,f,1231,3405101120,734881840,rubrospinal tract,964
+589508451,,Paratrigeminal nucleus,Pa5,8,1,3,8690,386.0,6,1,962,/997/8/343/1065/354/386/589508451/,FFA5D2,,,f,963,2968278306,734881840,Paratrigeminal nucleus,4243
+7,283.0,Principal sensory nucleus of the trigeminal,PSV,8,1,3,8690,1132.0,6,1,889,/997/8/343/1065/771/1132/7/,FFAE6F,,,f,890,977401861,734881840,Principal sensory nucleus of the trigeminal,27148
+981,971.0,"Primary somatosensory area, barrel field, layer 1",SSp-bfd1,11,1,3,8690,329.0,9,1,52,/997/8/567/688/695/315/453/322/329/981/,188064,,,f,53,3178183090,734881840,Primary somatosensory area barrel field layer 1,10
+26,427.0,"Superior colliculus, motor related, deep gray layer",SCdg,9,1,3,8690,294.0,6,1,831,/997/8/343/313/323/294/26/,FF90FF,,,f,832,2056102031,734881840,Superior colliculus motor related deep gray layer,121
+93,577.0,motor root of the trigeminal nerve,moV,9,1,3,8690,901.0,4,1,1126,/997/1009/967/901/93/,CCCCCC,,,f,1127,511291358,734881840,motor root of the trigeminal nerve,118
+931,823.0,Pontine gray,PG,8,1,3,8690,987.0,6,1,912,/997/8/343/1065/771/987/931/,FFBA86,,,f,913,3482158520,734881840,Pontine gray,2305
+202,449.0,Medial vestibular nucleus,MV,8,1,3,8690,701.0,7,1,1003,/997/8/343/1065/354/370/701/202/,FFB3D9,,,f,1004,2935119484,734881840,Medial vestibular nucleus,2991
+366,328.0,Submedial nucleus of the thalamus,SMT,8,1,3,8690,444.0,7,1,689,/997/8/343/1129/549/856/444/366/,FF909F,,,f,690,524654949,734881840,Submedial nucleus of the thalamus,1539
+442,1045.0,"Retrosplenial area, dorsal part, layer 1",RSPd1,11,1,3,8690,879.0,8,1,326,/997/8/567/688/695/315/254/879/442/,1AA698,,,f,327,3307182297,734881840,Retrosplenial area dorsal part layer 1,1
+651,222.0,Nucleus of the solitary tract,NTS,8,1,3,8690,386.0,6,1,948,/997/8/343/1065/354/386/651/,FFA5D2,,,f,949,1090041084,734881840,Nucleus of the solitary tract,294

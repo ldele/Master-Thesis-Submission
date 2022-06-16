@@ -1,0 +1,316 @@
+id,atlas_id,name,acronym,st_level,ontology_id,hemisphere_id,weight,parent_structure_id,depth,graph_id,graph_order,structure_id_path,color_hex_triplet,neuro_name_structure_id,neuro_name_structure_id_path,failed,sphinx_id,structure_name_facet,failed_facet,safe_name,counts
+163,1010.0,"Agranular insular area, posterior part, layer 2/3",AIp2/3,11,1,3,8690,111.0,8,1,287,/997/8/567/688/695/315/95/111/163/,219866,,,f,288,2735510231,734881840,Agranular insular area posterior part layer 2/3,35386
+965,969.0,"Retrosplenial area, lateral agranular part, layer 2/3",RSPagl2/3,11,1,3,8690,894.0,8,1,300,/997/8/567/688/695/315/254/894/965/,1AA698,,,f,301,2863914633,734881840,Retrosplenial area lateral agranular part layer 2/3,6665
+355,1034.0,"Agranular insular area, posterior part, layer 6b",AIp6b,11,1,3,8690,111.0,8,1,290,/997/8/567/688/695/315/95/111/355/,219866,,,f,291,3556322142,734881840,Agranular insular area posterior part layer 6b,2190
+1009,691.0,fiber tracts,fiber tracts,1,1,3,8690,997.0,1,1,1101,/997/1009/,CCCCCC,,,f,1102,771268094,734881840,fiber tracts,29
+1074,1124.0,"Anterolateral visual area, layer 1",VISal1,11,1,3,8690,402.0,8,1,165,/997/8/567/688/695/315/669/402/1074/,08858C,,,f,166,2830003304,734881840,Anterolateral visual area layer 1,8968
+412,1041.0,"Orbital area, lateral part, layer 2/3",ORBl2/3,11,1,3,8690,723.0,8,1,260,/997/8/567/688/695/315/714/723/412/,248A5E,,,f,261,2658172417,734881840,Orbital area lateral part layer 2/3,78497
+657,1072.0,"Primary somatosensory area, mouth, layer 2/3",SSp-m2/3,11,1,3,8690,345.0,9,1,74,/997/8/567/688/695/315/453/322/345/657/,188064,,,f,75,3683406469,734881840,Primary somatosensory area mouth layer 2/3,3403
+743,941.0,"Entorhinal area, medial part, dorsal zone, layer 6",ENTm6,11,1,3,8690,926.0,9,1,516,/997/8/567/688/695/1089/822/909/926/743/,32B825,,,f,517,301262618,734881840,Entorhinal area medial part dorsal zone layer 6,56
+687,651.0,"Retrosplenial area, ventral part, layer 5",RSPv5,11,1,3,8690,886.0,8,1,336,/997/8/567/688/695/315/254/886/687/,1AA698,,,f,337,1239413140,734881840,Retrosplenial area ventral part layer 5,3917
+878,958.0,"Primary somatosensory area, mouth, layer 1",SSp-m1,11,1,3,8690,345.0,9,1,73,/997/8/567/688/695/315/453/322/345/878/,188064,,,f,74,3213023761,734881840,Primary somatosensory area mouth layer 1,993
+131,157.0,Lateral amygdalar nucleus,LA,8,1,3,8690,703.0,5,1,561,/997/8/567/688/703/131/,90EB8D,,,f,562,437540953,734881840,Lateral amygdalar nucleus,4554
+434,761.0,"Retrosplenial area, dorsal part, layer 2/3",RSPd2/3,11,1,3,8690,879.0,8,1,327,/997/8/567/688/695/315/254/879/434/,1AA698,,,f,328,1081955810,734881840,Retrosplenial area dorsal part layer 2/3,2349
+1035,1119.0,"Supplemental somatosensory area, layer 4",SSs4,11,1,3,8690,378.0,8,1,103,/997/8/567/688/695/315/453/378/1035/,188064,,,f,104,1509795198,734881840,Supplemental somatosensory area layer 4,20640
+1047,979.0,"Primary somatosensory area, barrel field, layer 4",SSp-bfd4,11,1,3,8690,329.0,9,1,54,/997/8/567/688/695/315/453/322/329/1047/,188064,,,f,55,3439709501,734881840,Primary somatosensory area barrel field layer 4,47512
+368,894.0,"Perirhinal area, layer 6b",PERI6b,11,1,3,8690,922.0,7,1,372,/997/8/567/688/695/315/922/368/,0E9684,,,f,373,4014849762,734881840,Perirhinal area layer 6b,94
+696,935.0,"Posterior auditory area, layer 1",AUDpo1,11,1,3,8690,1027.0,8,1,144,/997/8/567/688/695/315/247/1027/696/,019399,,,f,145,235681893,734881840,Posterior auditory area layer 1,4804
+821,951.0,"Primary visual area, layer 2/3",VISp2/3,11,1,3,8690,385.0,8,1,187,/997/8/567/688/695/315/669/385/821/,08858C,,,f,188,2317291160,734881840,Primary visual area layer 2/3,30006
+320,888.0,"Primary motor area, Layer 1",MOp1,11,1,3,8690,985.0,8,1,19,/997/8/567/688/695/315/500/985/320/,1F9D5A,,,f,20,571569106,734881840,Primary motor area Layer 1,49221
+778,1087.0,"Primary visual area, layer 5",VISp5,11,1,3,8690,385.0,8,1,189,/997/8/567/688/695/315/669/385/778/,08858C,,,f,190,1453946728,734881840,Primary visual area layer 5,19532
+971,545.0,"corpus callosum, posterior forceps",fp,9,1,3,8690,776.0,4,1,1196,/997/1009/983/776/971/,CCCCCC,,,f,1197,2598038340,734881840,corpus callosum posterior forceps,45112
+68,998.0,"Frontal pole, layer 1",FRP1,11,1,3,8690,184.0,7,1,7,/997/8/567/688/695/315/184/68/,268F45,,,f,8,1397862467,734881840,Frontal pole layer 1,7215
+600,923.0,"Dorsal auditory area, layer 2/3",AUDd2/3,11,1,3,8690,1011.0,8,1,124,/997/8/567/688/695/315/247/1011/600/,019399,,,f,125,2148227545,734881840,Dorsal auditory area layer 2/3,25077
+538,491.0,dorsal limb,lotd,10,1,3,8690,21.0,5,1,1109,/997/1009/967/840/21/538/,CCCCCC,,,f,1110,2177072245,734881840,dorsal limb,2180
+344,891.0,"Agranular insular area, posterior part, layer 5",AIp5,11,1,3,8690,111.0,8,1,288,/997/8/567/688/695/315/95/111/344/,219866,,,f,289,3116139673,734881840,Agranular insular area posterior part layer 5,64053
+363,1035.0,"Prelimbic area, layer 5",PL5,11,1,3,8690,972.0,7,1,242,/997/8/567/688/695/315/972/363/,2FA850,,,f,243,1282533063,734881840,Prelimbic area layer 5,4665
+678,650.0,"Dorsal auditory area, layer 4",AUDd4,11,1,3,8690,1011.0,8,1,125,/997/8/567/688/695/315/247/1011/678/,019399,,,f,126,3650389730,734881840,Dorsal auditory area layer 4,4768
+1015,975.0,"Anterior cingulate area, dorsal part, layer 5",ACAd5,11,1,3,8690,39.0,8,1,229,/997/8/567/688/695/315/31/39/1015/,40A666,,,f,230,3023161855,734881840,Anterior cingulate area dorsal part layer 5,20709
+187,1013.0,"Gustatory areas, layer 5",GU5,11,1,3,8690,1057.0,7,1,111,/997/8/567/688/695/315/1057/187/,009C75,,,f,112,2330527764,734881840,Gustatory areas layer 5,1649
+312782632,,"Postrhinal area, layer 1",VISpor1,11,1,3,8690,312782628.0,8,1,214,/997/8/567/688/695/315/669/312782628/312782632/,08858C,,,f,215,1476324402,734881840,Postrhinal area layer 1,16213
+6,566.0,internal capsule,int,9,1,3,8690,784.0,4,1,1201,/997/1009/983/784/6/,CCCCCC,,,f,1202,2936038281,734881840,internal capsule,1167
+156,1009.0,"Dorsal auditory area, layer 6a",AUDd6a,11,1,3,8690,1011.0,8,1,127,/997/8/567/688/695/315/247/1011/156/,019399,,,f,128,2489109267,734881840,Dorsal auditory area layer 6a,17735
+843,246.0,Parasubiculum,PAR,8,1,3,8690,822.0,7,1,523,/997/8/567/688/695/1089/822/843/,72D569,,,f,524,2447067507,734881840,Parasubiculum,3179
+844,1095.0,"Primary motor area, Layer 6a",MOp6a,11,1,3,8690,985.0,8,1,22,/997/8/567/688/695/315/500/985/844/,1F9D5A,,,f,23,3473508879,734881840,Primary motor area Layer 6a,86793
+41,995.0,"posteromedial visual area, layer 2/3",VISpm2/3,11,1,3,8690,533.0,8,1,201,/997/8/567/688/695/315/669/533/41/,08858C,,,f,202,736869347,734881840,posteromedial visual area layer 2/3,11211
+502,345.0,Subiculum,SUB,8,1,3,8690,822.0,7,1,535,/997/8/567/688/695/1089/822/502/,4FC244,,,f,536,3628141206,734881840,Subiculum,77
+998,124.0,Fundus of striatum,FS,8,1,3,8690,493.0,6,1,576,/997/8/567/623/477/493/998/,80CDF8,,,f,577,663741194,734881840,Fundus of striatum,8024
+996,1114.0,"Agranular insular area, dorsal part, layer 1",AId1,11,1,3,8690,104.0,8,1,280,/997/8/567/688/695/315/95/104/996/,219866,,,f,281,633930990,734881840,Agranular insular area dorsal part layer 1,4075
+1125,1130.0,"Orbital area, ventrolateral part, layer 5",ORBvl5,11,1,3,8690,746.0,8,1,275,/997/8/567/688/695/315/714/746/1125/,248A5E,,,f,276,4084585477,734881840,Orbital area ventrolateral part layer 5,6997
+1108,562.0,genu of corpus callosum,ccg,9,1,3,8690,776.0,4,1,1195,/997/1009/983/776/1108/,CCCCCC,,,f,1196,3387198454,734881840,genu of corpus callosum,1757
+601,1065.0,"Anterolateral visual area, layer 6a",VISal6a,11,1,3,8690,402.0,8,1,169,/997/8/567/688/695/315/669/402/601/,08858C,,,f,170,3828838274,734881840,Anterolateral visual area layer 6a,9891
+1121,988.0,"Entorhinal area, lateral part, layer 1",ENTl1,11,1,3,8690,918.0,9,1,495,/997/8/567/688/695/1089/822/909/918/1121/,32B825,,,f,496,1675684242,734881840,Entorhinal area lateral part layer 1,36102
+469,624.0,"posteromedial visual area, layer 6b",VISpm6b,11,1,3,8690,533.0,8,1,205,/997/8/567/688/695/315/669/533/469/,08858C,,,f,206,1015740806,734881840,posteromedial visual area layer 6b,425
+334,41.0,"Basomedial amygdalar nucleus, posterior part",BMAp,9,1,3,8690,319.0,6,1,568,/997/8/567/688/703/319/334/,84EA81,,,f,569,3419250657,734881840,Basomedial amygdalar nucleus posterior part,5
+551,68.0,"Central amygdalar nucleus, lateral part",CEAl,9,1,3,8690,536.0,7,1,597,/997/8/567/623/477/278/536/551/,80C0E2,,,f,598,1239602128,734881840,Central amygdalar nucleus lateral part,1824
+260,739.0,"Nucleus of the lateral olfactory tract, molecular layer",NLOT1,11,1,3,8690,619.0,7,1,423,/997/8/567/688/695/698/619/260/,95E4C8,,,f,424,1899636519,734881840,Nucleus of the lateral olfactory tract molecular layer,22
+403,191.0,Medial amygdalar nucleus,MEA,8,1,3,8690,278.0,6,1,600,/997/8/567/623/477/278/403/,80C0E2,,,f,601,3783070713,734881840,Medial amygdalar nucleus,21
+314,1029.0,"Agranular insular area, posterior part, layer 6a",AIp6a,11,1,3,8690,111.0,8,1,289,/997/8/567/688/695/315/95/111/314/,219866,,,f,290,1257274084,734881840,Agranular insular area posterior part layer 6a,40607
+526,914.0,"Entorhinal area, medial part, dorsal zone, layer 1",ENTm1,11,1,3,8690,926.0,9,1,508,/997/8/567/688/695/1089/822/909/926/526/,32B825,,,f,509,2408608441,734881840,Entorhinal area medial part dorsal zone layer 1,2451
+279,883.0,"Retrosplenial area, lateral agranular part, layer 6b",RSPagl6b,11,1,3,8690,894.0,8,1,303,/997/8/567/688/695/315/254/894/279/,1AA698,,,f,304,3673775698,734881840,Retrosplenial area lateral agranular part layer 6b,890
+233,453.0,"Anterolateral visual area, layer 5",VISal5,11,1,3,8690,402.0,8,1,168,/997/8/567/688/695/315/669/402/233/,08858C,,,f,169,2948835441,734881840,Anterolateral visual area layer 5,6761
+727,939.0,"Entorhinal area, medial part, dorsal zone, layer 5",ENTm5,11,1,3,8690,926.0,9,1,514,/997/8/567/688/695/1089/822/909/926/727/,32B825,,,f,515,2298328736,734881840,Entorhinal area medial part dorsal zone layer 5,303
+401,1040.0,"Anteromedial visual area, layer 4",VISam4,11,1,3,8690,394.0,8,1,174,/997/8/567/688/695/315/669/394/401/,08858C,,,f,175,1463637765,734881840,Anteromedial visual area layer 4,828
+461,623.0,"Primary somatosensory area, trunk, layer 6b",SSp-tr6b,11,1,3,8690,361.0,9,1,92,/997/8/567/688/695/315/453/322/361/461/,188064,,,f,93,3360815570,734881840,Primary somatosensory area trunk layer 6b,1607
+312782582,,"Laterointermediate area, layer 2/3",VISli2/3,11,1,3,8690,312782574.0,8,1,208,/997/8/567/688/695/315/669/312782574/312782582/,08858C,,,f,209,3431444904,734881840,Laterointermediate area layer 2/3,5574
+1085,1125.0,"Secondary motor area, layer 6b",MOs6b,11,1,3,8690,993.0,8,1,29,/997/8/567/688/695/315/500/993/1085/,1F9D5A,,,f,30,1225271489,734881840,Secondary motor area layer 6b,2394
+312782570,,"Anterior area, layer 6b",VISa6b,11,1,3,8690,312782546.0,8,1,352,/997/8/567/688/695/315/22/312782546/312782570/,009FAC,,,f,353,2576925337,734881840,Anterior area layer 6b,1531
+328,889.0,"Agranular insular area, dorsal part, layer 2/3",AId2/3,11,1,3,8690,104.0,8,1,281,/997/8/567/688/695/315/95/104/328/,219866,,,f,282,700697199,734881840,Agranular insular area dorsal part layer 2/3,5740
+945,1108.0,"Primary somatosensory area, upper limb, layer 6a",SSp-ul6a,11,1,3,8690,369.0,9,1,84,/997/8/567/688/695/315/453/322/369/945/,188064,,,f,85,2726127758,734881840,Primary somatosensory area upper limb layer 6a,23603
+977,1112.0,Ectorhinal area/Layer 6a,ECT6a,11,1,3,8690,895.0,7,1,377,/997/8/567/688/695/315/895/977/,0D9F91,,,f,378,2932206502,734881840,Ectorhinal area/Layer 6a,37883
+692,1076.0,"Perirhinal area, layer 5",PERI5,11,1,3,8690,922.0,7,1,370,/997/8/567/688/695/315/922/692/,0E9684,,,f,371,248375741,734881840,Perirhinal area layer 5,42789
+1127,706.0,"Temporal association areas, layer 2/3",TEa2/3,11,1,3,8690,541.0,7,1,362,/997/8/567/688/695/315/541/1127/,15B0B3,,,f,363,74295275,734881840,Temporal association areas layer 2/3,6297
+969,1111.0,"Orbital area, ventrolateral part, layer 1",ORBvl1,11,1,3,8690,746.0,8,1,273,/997/8/567/688/695/315/714/746/969/,248A5E,,,f,274,4095217692,734881840,Orbital area ventrolateral part layer 1,10326
+159,19.0,Anterior olfactory nucleus,AON,8,1,3,8690,698.0,6,1,390,/997/8/567/688/695/698/159/,54BF94,,,f,391,747766383,734881840,Anterior olfactory nucleus,17000
+893,960.0,"Supplemental somatosensory area, layer 6b",SSs6b,11,1,3,8690,378.0,8,1,106,/997/8/567/688/695/315/453/378/893/,188064,,,f,107,4100730085,734881840,Supplemental somatosensory area layer 6b,13762
+954,1109.0,"Primary auditory area, layer 6a",AUDp6a,11,1,3,8690,1002.0,8,1,141,/997/8/567/688/695/315/247/1002/954/,019399,,,f,142,945654628,734881840,Primary auditory area layer 6a,20045
+281,1025.0,"Anteromedial visual area, layer 1",VISam1,11,1,3,8690,394.0,8,1,172,/997/8/567/688/695/315/669/394/281/,08858C,,,f,173,660054922,734881840,Anteromedial visual area layer 1,3372
+559,69.0,"Central amygdalar nucleus, medial part",CEAm,9,1,3,8690,536.0,7,1,598,/997/8/567/623/477/278/536/559/,80C0E2,,,f,599,2654652343,734881840,Central amygdalar nucleus medial part,922
+274,1024.0,"Retrosplenial area, dorsal part, layer 6a",RSPd6a,11,1,3,8690,879.0,8,1,330,/997/8/567/688/695/315/254/879/274/,1AA698,,,f,331,1480351084,734881840,Retrosplenial area dorsal part layer 6a,3876
+655,81.0,"Cortical amygdalar area, posterior part, lateral zone",COApl,10,1,3,8690,647.0,8,1,432,/997/8/567/688/695/698/631/647/655/,61E7B7,,,f,433,687250718,734881840,Cortical amygdalar area posterior part lateral zone,2501
+148,1008.0,"Gustatory areas, layer 4",GU4,11,1,3,8690,1057.0,7,1,110,/997/8/567/688/695/315/1057/148/,009C75,,,f,111,4260247682,734881840,Gustatory areas layer 4,22
+648,929.0,"Primary motor area, Layer 5",MOp5,11,1,3,8690,985.0,8,1,21,/997/8/567/688/695/315/500/985/648/,1F9D5A,,,f,22,628930507,734881840,Primary motor area Layer 5,79437
+783,946.0,"Agranular insular area, dorsal part, layer 6a",AId6a,11,1,3,8690,104.0,8,1,283,/997/8/567/688/695/315/95/104/783/,219866,,,f,284,3764465407,734881840,Agranular insular area dorsal part layer 6a,9958
+698,228.0,Olfactory areas,OLF,5,1,3,8690,695.0,5,1,379,/997/8/567/688/695/698/,9AD2BD,,,f,380,1234982955,734881840,Olfactory areas,97333
+961,261.0,Piriform area,PIR,8,1,3,8690,698.0,6,1,416,/997/8/567/688/695/698/961/,6ACBBA,,,f,417,3867654445,734881840,Piriform area,315126
+393,1039.0,"Posterolateral visual area, layer 6b",VISpl6b,11,1,3,8690,425.0,8,1,198,/997/8/567/688/695/315/669/425/393/,08858C,,,f,199,2848021844,734881840,Posterolateral visual area layer 6b,41
+74,999.0,"Lateral visual area, layer 6a",VISl6a,11,1,3,8690,409.0,8,1,183,/997/8/567/688/695/315/669/409/74/,08858C,,,f,184,3506956184,734881840,Lateral visual area layer 6a,6518
+1086,984.0,"Primary somatosensory area, trunk, layer 4",SSp-tr4,11,1,3,8690,361.0,9,1,89,/997/8/567/688/695/315/453/322/361/1086/,188064,,,f,90,1741439834,734881840,Primary somatosensory area trunk layer 4,2344
+667,1073.0,"Frontal pole, layer 2/3",FRP2/3,11,1,3,8690,184.0,7,1,8,/997/8/567/688/695/315/184/667/,268F45,,,f,9,4268100038,734881840,Frontal pole layer 2/3,4720
+488,626.0,"Orbital area, lateral part, layer 6b",ORBl6b,11,1,3,8690,723.0,8,1,263,/997/8/567/688/695/315/714/723/488/,248A5E,,,f,264,2004888123,734881840,Orbital area lateral part layer 6b,748
+973,687.0,"Lateral visual area, layer 2/3",VISl2/3,11,1,3,8690,409.0,8,1,180,/997/8/567/688/695/315/669/409/973/,08858C,,,f,181,4196685917,734881840,Lateral visual area layer 2/3,8956
+327,40.0,"Basomedial amygdalar nucleus, anterior part",BMAa,9,1,3,8690,319.0,6,1,567,/997/8/567/688/703/319/327/,84EA81,,,f,568,2574993876,734881840,Basomedial amygdalar nucleus anterior part,457
+28,993.0,"Entorhinal area, lateral part, layer 6a",ENTl6a,11,1,3,8690,918.0,9,1,505,/997/8/567/688/695/1089/822/909/918/28/,32B825,,,f,506,3113499141,734881840,Entorhinal area lateral part layer 6a,7791
+654,647.0,"Primary somatosensory area, nose, layer 4",SSp-n4,11,1,3,8690,353.0,9,1,47,/997/8/567/688/695/315/453/322/353/654/,188064,,,f,48,2563128336,734881840,Primary somatosensory area nose layer 4,2922
+704,936.0,"Agranular insular area, ventral part, layer 1",AIv1,11,1,3,8690,119.0,8,1,292,/997/8/567/688/695/315/95/119/704/,219866,,,f,293,4142876190,734881840,Agranular insular area ventral part layer 1,9017
+171,1011.0,"Prelimbic area, layer 1",PL1,11,1,3,8690,972.0,7,1,239,/997/8/567/688/695/315/972/171/,2FA850,,,f,240,1260135134,734881840,Prelimbic area layer 1,6010
+962,1110.0,"Secondary motor area, layer 2/3",MOs2/3,11,1,3,8690,993.0,8,1,26,/997/8/567/688/695/315/500/993/962/,1F9D5A,,,f,27,3274108161,734881840,Secondary motor area layer 2/3,775758
+703,87.0,Cortical subplate,CTXsp,5,1,3,8690,688.0,4,1,555,/997/8/567/688/703/,8ADA87,,,f,556,1297404944,734881840,Cortical subplate,8209
+608,924.0,"Orbital area, ventrolateral part, layer 6a",ORBvl6a,11,1,3,8690,746.0,8,1,276,/997/8/567/688/695/315/714/746/608/,248A5E,,,f,277,3003346139,734881840,Orbital area ventrolateral part layer 6a,1022
+269,882.0,"Posterolateral visual area, layer 2/3",VISpl2/3,11,1,3,8690,425.0,8,1,194,/997/8/567/688/695/315/669/425/269/,08858C,,,f,195,1134773183,734881840,Posterolateral visual area layer 2/3,3793
+956,543.0,"corpus callosum, anterior forceps",fa,9,1,3,8690,776.0,4,1,1192,/997/1009/983/776/956/,CCCCCC,,,f,1193,4281334996,734881840,corpus callosum anterior forceps,4799
+257,456.0,"posteromedial visual area, layer 6a",VISpm6a,11,1,3,8690,533.0,8,1,204,/997/8/567/688/695/315/669/533/257/,08858C,,,f,205,2776868924,734881840,posteromedial visual area layer 6a,1337
+838,953.0,"Primary somatosensory area, nose, layer 2/3",SSp-n2/3,11,1,3,8690,353.0,9,1,46,/997/8/567/688/695/315/453/322/353/838/,188064,,,f,47,2369110310,734881840,Primary somatosensory area nose layer 2/3,9254
+873,1099.0,"Supplemental somatosensory area, layer 1",SSs1,11,1,3,8690,378.0,8,1,101,/997/8/567/688/695/315/453/378/873/,188064,,,f,102,697782769,734881840,Supplemental somatosensory area layer 1,59910
+772,1086.0,"Anterior cingulate area, ventral part, layer 5",ACAv5,11,1,3,8690,48.0,8,1,235,/997/8/567/688/695/315/31/48/772/,40A666,,,f,236,4291796796,734881840,Anterior cingulate area ventral part layer 5,229
+1005,1115.0,"Primary auditory area, layer 6b",AUDp6b,11,1,3,8690,1002.0,8,1,142,/997/8/567/688/695/315/247/1002/1005/,019399,,,f,143,2706692830,734881840,Primary auditory area layer 6b,5865
+988,1113.0,Ectorhinal area/Layer 5,ECT5,11,1,3,8690,895.0,7,1,376,/997/8/567/688/695/315/895/988/,0D9F91,,,f,377,2195901717,734881840,Ectorhinal area/Layer 5,105193
+908,537.0,"anterior commissure, temporal limb",act,8,1,3,8690,768.0,4,1,1242,/997/1009/991/768/908/,CCCCCC,,,f,1243,3387830123,734881840,anterior commissure temporal limb,4937
+721,1080.0,"Primary visual area, layer 4",VISp4,11,1,3,8690,385.0,8,1,188,/997/8/567/688/695/315/669/385/721/,08858C,,,f,189,565069822,734881840,Primary visual area layer 4,7302
+583,72.0,Claustrum,CLA,8,1,3,8690,703.0,5,1,557,/997/8/567/688/703/583/,8ADA87,,,f,558,2624439303,734881840,Claustrum,30904
+182305701,,"Primary somatosensory area, unassigned, layer 4",SSp-un4,11,1,3,8690,182305689.0,9,1,96,/997/8/567/688/695/315/453/322/182305689/182305701/,188064,,,f,97,481073879,734881840,Primary somatosensory area unassigned layer 4,2576
+182305709,,"Primary somatosensory area, unassigned, layer 6a",SSp-un6a,11,1,3,8690,182305689.0,9,1,98,/997/8/567/688/695/315/453/322/182305689/182305709/,188064,,,f,99,3257546540,734881840,Primary somatosensory area unassigned layer 6a,6647
+707,1078.0,"Infralimbic area, layer 1",ILA1,11,1,3,8690,44.0,7,1,246,/997/8/567/688/695/315/44/707/,59B363,,,f,247,3257448349,734881840,Infralimbic area layer 1,10
+182305693,,"Primary somatosensory area, unassigned, layer 1",SSp-un1,11,1,3,8690,182305689.0,9,1,94,/997/8/567/688/695/315/453/322/182305689/182305693/,188064,,,f,95,1824943704,734881840,Primary somatosensory area unassigned layer 1,16466
+990,972.0,"Ventral auditory area, layer 4",AUDv4,11,1,3,8690,1018.0,8,1,153,/997/8/567/688/695/315/247/1018/990/,019399,,,f,154,4034617125,734881840,Ventral auditory area layer 4,4670
+312782566,,"Anterior area, layer 6a",VISa6a,11,1,3,8690,312782546.0,8,1,351,/997/8/567/688/695/315/22/312782546/312782566/,009FAC,,,f,352,9540387,734881840,Anterior area layer 6a,3467
+755,1084.0,"Ventral auditory area, layer 2/3",AUDv2/3,11,1,3,8690,1018.0,8,1,152,/997/8/567/688/695/315/247/1018/755/,019399,,,f,153,4223622095,734881840,Ventral auditory area layer 2/3,3301
+1038,978.0,"Primary somatosensory area, barrel field, layer 6a",SSp-bfd6a,11,1,3,8690,329.0,9,1,56,/997/8/567/688/695/315/453/322/329/1038/,188064,,,f,57,2183435549,734881840,Primary somatosensory area barrel field layer 6a,47927
+854,955.0,"Primary somatosensory area, upper limb, layer 2/3",SSp-ul2/3,11,1,3,8690,369.0,9,1,81,/997/8/567/688/695/315/453/322/369/854/,188064,,,f,82,243505027,734881840,Primary somatosensory area upper limb layer 2/3,34879
+288,884.0,"Orbital area, ventrolateral part, layer 2/3",ORBvl2/3,11,1,3,8690,746.0,8,1,274,/997/8/567/688/695/315/714/746/288/,248A5E,,,f,275,361975036,734881840,Orbital area ventrolateral part layer 2/3,5275
+312782590,,"Laterointermediate area, layer 5",VISli5,11,1,3,8690,312782574.0,8,1,210,/997/8/567/688/695/315/669/312782574/312782590/,08858C,,,f,211,2197985977,734881840,Laterointermediate area layer 5,5621
+463,57.0,Field CA3,CA3,9,1,3,8690,375.0,8,1,467,/997/8/567/688/695/1089/1080/375/463/,7ED04B,,,f,468,3396545448,734881840,Field CA3,12242
+940,541.0,cingulum bundle,cing,8,1,3,8690,768.0,4,1,1243,/997/1009/991/768/940/,CCCCCC,,,f,1244,1622445056,734881840,cingulum bundle,22418
+1058,1122.0,"Visceral area, layer 5",VISC5,11,1,3,8690,677.0,7,1,118,/997/8/567/688/695/315/677/1058/,11AD83,,,f,119,1267762840,734881840,Visceral area layer 5,33482
+204,732.0,"Accessory olfactory bulb, mitral layer",AOBmi,11,1,3,8690,151.0,7,1,389,/997/8/567/688/695/698/151/204/,9DF0D2,,,f,390,4294648998,734881840,Accessory olfactory bulb mitral layer,2664
+544,67.0,"Central amygdalar nucleus, capsular part",CEAc,9,1,3,8690,536.0,7,1,596,/997/8/567/623/477/278/536/544/,80C0E2,,,f,597,4187015181,734881840,Central amygdalar nucleus capsular part,6492
+1046,696.0,"Anteromedial visual area, layer 6a",VISam6a,11,1,3,8690,394.0,8,1,176,/997/8/567/688/695/315/669/394/1046/,08858C,,,f,177,2864452889,734881840,Anteromedial visual area layer 6a,1961
+577,1062.0,"Primary somatosensory area, upper limb, layer 4",SSp-ul4,11,1,3,8690,369.0,9,1,82,/997/8/567/688/695/315/453/322/369/577/,188064,,,f,83,4219333960,734881840,Primary somatosensory area upper limb layer 4,3308
+862,956.0,"Supplemental somatosensory area, layer 6a",SSs6a,11,1,3,8690,378.0,8,1,105,/997/8/567/688/695/315/453/378/862/,188064,,,f,106,1835367775,734881840,Supplemental somatosensory area layer 6a,52543
+84,1000.0,"Prelimbic area, layer 6a",PL6a,11,1,3,8690,972.0,7,1,243,/997/8/567/688/695/315/972/84/,2FA850,,,f,244,3335965557,734881840,Prelimbic area layer 6a,3099
+1006,974.0,"Primary somatosensory area, trunk, layer 1",SSp-tr1,11,1,3,8690,361.0,9,1,87,/997/8/567/688/695/315/453/322/361/1006/,188064,,,f,88,396802005,734881840,Primary somatosensory area trunk layer 1,6691
+581,355.0,Triangular nucleus of septum,TRS,8,1,3,8690,826.0,6,1,619,/997/8/567/623/803/826/581/,96A7D3,,,f,620,609929054,734881840,Triangular nucleus of septum,1
+289,1026.0,"Temporal association areas, layer 5",TEa5,11,1,3,8690,541.0,7,1,364,/997/8/567/688/695/315/541/289/,15B0B3,,,f,365,475299804,734881840,Temporal association areas layer 5,88986
+643,1070.0,"Posterior auditory area, layer 2/3",AUDpo2/3,11,1,3,8690,1027.0,8,1,145,/997/8/567/688/695/315/247/1027/643/,019399,,,f,146,3738950829,734881840,Posterior auditory area layer 2/3,2636
+888,959.0,"Perirhinal area, layer 2/3",PERI2/3,11,1,3,8690,922.0,7,1,369,/997/8/567/688/695/315/922/888/,0E9684,,,f,370,1642584549,734881840,Perirhinal area layer 2/3,82681
+305,462.0,"Primary visual area, layer 6b",VISp6b,11,1,3,8690,385.0,8,1,191,/997/8/567/688/695/315/669/385/305/,08858C,,,f,192,430767143,734881840,Primary visual area layer 6b,4329
+1023,976.0,"Ventral auditory area, layer 5",AUDv5,11,1,3,8690,1018.0,8,1,154,/997/8/567/688/695/315/247/1018/1023/,019399,,,f,155,2273079219,734881840,Ventral auditory area layer 5,34201
+919,963.0,"Anterior cingulate area, dorsal part, layer 6a",ACAd6a,11,1,3,8690,39.0,8,1,230,/997/8/567/688/695/315/31/39/919/,40A666,,,f,231,3995874244,734881840,Anterior cingulate area dorsal part layer 6a,8982
+579,496.0,external capsule,ec,10,1,3,8690,956.0,5,1,1193,/997/1009/983/776/956/579/,CCCCCC,,,f,1194,1857747964,734881840,external capsule,32802
+1101,1127.0,"Agranular insular area, dorsal part, layer 5",AId5,11,1,3,8690,104.0,8,1,282,/997/8/567/688/695/315/95/104/1101/,219866,,,f,283,581222647,734881840,Agranular insular area dorsal part layer 5,12579
+558,635.0,"Primary somatosensory area, nose, layer 1",SSp-n1,11,1,3,8690,353.0,9,1,45,/997/8/567/688/695/315/453/322/353/558/,188064,,,f,46,3903637663,734881840,Primary somatosensory area nose layer 1,7633
+900,536.0,"anterior commissure, olfactory limb",aco,9,1,3,8690,840.0,4,1,1111,/997/1009/967/840/900/,CCCCCC,,,f,1112,1365430169,734881840,anterior commissure olfactory limb,3726
+694,652.0,"Agranular insular area, ventral part, layer 2/3",AIv2/3,11,1,3,8690,119.0,8,1,293,/997/8/567/688/695/315/95/119/694/,219866,,,f,294,2779633736,734881840,Agranular insular area ventral part layer 2/3,21998
+566,353.0,Postpiriform transition area,TR,8,1,3,8690,698.0,6,1,449,/997/8/567/688/695/698/566/,A8ECD3,,,f,450,2552138473,734881840,Postpiriform transition area,1063
+312782624,,"Rostrolateral area, layer 6b",VISrl6b,11,1,3,8690,417.0,8,1,359,/997/8/567/688/695/315/22/417/312782624/,009FAC,,,f,360,3279221348,734881840,Rostrolateral area layer 6b,1833
+565,636.0,"posteromedial visual area, layer 5",VISpm5,11,1,3,8690,533.0,8,1,203,/997/8/567/688/695/315/669/533/565/,08858C,,,f,204,528381658,734881840,posteromedial visual area layer 5,3694
+806,949.0,"Supplemental somatosensory area, layer 2/3",SSs2/3,11,1,3,8690,378.0,8,1,102,/997/8/567/688/695/315/453/378/806/,188064,,,f,103,4288179668,734881840,Supplemental somatosensory area layer 2/3,144266
+312782604,,"Rostrolateral area, layer 1",VISrl1,11,1,3,8690,417.0,8,1,354,/997/8/567/688/695/315/22/417/312782604/,009FAC,,,f,355,3916570650,734881840,Rostrolateral area layer 1,55801
+484682528,,commissural branch of stria terminalis,stc,9,1,3,8690,301.0,5,1,1260,/997/1009/991/768/301/484682528/,CCCCCC,,,f,1261,2072512978,734881840,commissural branch of stria terminalis,297910
+613,642.0,"Lateral visual area, layer 5",VISl5,11,1,3,8690,409.0,8,1,182,/997/8/567/688/695/315/669/409/613/,08858C,,,f,183,719538265,734881840,Lateral visual area layer 5,6537
+582,638.0,"Orbital area, medial part, layer 2/3",ORBm2/3,11,1,3,8690,731.0,8,1,267,/997/8/567/688/695/315/714/731/582/,248A5E,,,f,268,2925130542,734881840,Orbital area medial part layer 2/3,4285
+649,1071.0,"Anterolateral visual area, layer 6b",VISal6b,11,1,3,8690,402.0,8,1,170,/997/8/567/688/695/315/669/402/649/,08858C,,,f,171,2101231160,734881840,Anterolateral visual area layer 6b,2231
+1139,1137.0,"Nucleus of the lateral olfactory tract, layer 3",NLOT3,11,1,3,8690,619.0,7,1,425,/997/8/567/688/695/698/619/1139/,95E4C8,,,f,426,2600277896,734881840,Nucleus of the lateral olfactory tract layer 3,48
+243,1020.0,"Dorsal auditory area, layer 6b",AUDd6b,11,1,3,8690,1011.0,8,1,128,/997/8/567/688/695/315/247/1011/243/,019399,,,f,129,223713961,734881840,Dorsal auditory area layer 6b,4468
+211,1016.0,"Anterior cingulate area, dorsal part, layer 2/3",ACAd2/3,11,1,3,8690,39.0,8,1,228,/997/8/567/688/695/315/31/39/211/,40A666,,,f,229,2563141206,734881840,Anterior cingulate area dorsal part layer 2/3,26920
+605,358.0,"Taenia tecta, ventral part",TTv,9,1,3,8690,589.0,7,1,405,/997/8/567/688/695/698/589/605/,62D09F,,,f,406,4008781829,734881840,Taenia tecta ventral part,10160
+423,52.0,Field CA2,CA2,9,1,3,8690,375.0,8,1,462,/997/8/567/688/695/1089/1080/375/423/,7ED04B,,,f,463,3178502974,734881840,Field CA2,11475
+1114,1129.0,"Anterolateral visual area, layer 4",VISal4,11,1,3,8690,402.0,8,1,167,/997/8/567/688/695/315/669/402/1114/,08858C,,,f,168,3636762855,734881840,Anterolateral visual area layer 4,3944
+440,620.0,"Orbital area, lateral part, layer 6a",ORBl6a,11,1,3,8690,723.0,8,1,262,/997/8/567/688/695/315/714/723/440/,248A5E,,,f,263,4001987457,734881840,Orbital area lateral part layer 6a,11520
+2,990.0,"Primary somatosensory area, mouth, layer 6b",SSp-m6b,11,1,3,8690,345.0,9,1,78,/997/8/567/688/695/315/453/322/345/2/,188064,,,f,79,1425070870,734881840,Primary somatosensory area mouth layer 6b,1094
+448,621.0,"Orbital area, lateral part, layer 1",ORBl1,11,1,3,8690,723.0,8,1,259,/997/8/567/688/695/315/714/723/448/,248A5E,,,f,260,370428134,734881840,Orbital area lateral part layer 1,96073
+139,1007.0,"Entorhinal area, lateral part, layer 5",ENTl5,11,1,3,8690,918.0,9,1,503,/997/8/567/688/695/1089/822/909/918/139/,32B825,,,f,504,1686973835,734881840,Entorhinal area lateral part layer 5,73537
+791,947.0,"Posterior auditory area, layer 5",AUDpo5,11,1,3,8690,1027.0,8,1,147,/997/8/567/688/695/315/247/1027/791/,019399,,,f,148,157416572,734881840,Posterior auditory area layer 5,7095
+312782640,,"Postrhinal area, layer 4",VISpor4,11,1,3,8690,312782628.0,8,1,216,/997/8/567/688/695/315/669/312782628/312782640/,08858C,,,f,217,664017085,734881840,Postrhinal area layer 4,1782
+9,991.0,"Primary somatosensory area, trunk, layer 6a",SSp-tr6a,11,1,3,8690,361.0,9,1,91,/997/8/567/688/695/315/453/322/361/9/,188064,,,f,92,1364764776,734881840,Primary somatosensory area trunk layer 6a,5958
+598,640.0,"Ventral auditory area, layer 6b",AUDv6b,11,1,3,8690,1018.0,8,1,156,/997/8/567/688/695/315/247/1018/598/,019399,,,f,157,142352995,734881840,Ventral auditory area layer 6b,4727
+312782594,,"Laterointermediate area, layer 6a",VISli6a,11,1,3,8690,312782574.0,8,1,211,/997/8/567/688/695/315/669/312782574/312782594/,08858C,,,f,212,1906631730,734881840,Laterointermediate area layer 6a,4612
+250,172.0,"Lateral septal nucleus, caudal (caudodorsal) part",LSc,9,1,3,8690,242.0,7,1,587,/997/8/567/623/477/275/242/250/,90CBED,,,f,588,3378904121,734881840,Lateral septal nucleus caudal (caudodorsal) part,21
+303,37.0,"Basolateral amygdalar nucleus, anterior part",BLAa,9,1,3,8690,295.0,6,1,563,/997/8/567/688/703/295/303/,9DE79C,,,f,564,2570788319,734881840,Basolateral amygdalar nucleus anterior part,6453
+312782616,,"Rostrolateral area, layer 5",VISrl5,11,1,3,8690,417.0,8,1,357,/997/8/567/688/695/315/22/417/312782616/,009FAC,,,f,358,3995067395,734881840,Rostrolateral area layer 5,6900
+466,482.0,alveus,alv,9,1,3,8690,1099.0,5,1,1245,/997/1009/991/768/1099/466/,CCCCCC,,,f,1246,3047472302,734881840,alveus,101131
+20,992.0,"Entorhinal area, lateral part, layer 2",ENTl2,11,1,3,8690,918.0,9,1,496,/997/8/567/688/695/1089/822/909/918/20/,32B825,,,f,497,4209621032,734881840,Entorhinal area lateral part layer 2,84504
+788,239.0,Piriform-amygdalar area,PAA,8,1,3,8690,698.0,6,1,444,/997/8/567/688/695/698/788/,59DAAB,,,f,445,1121206289,734881840,Piriform-amygdalar area,10260
+952,118.0,"Endopiriform nucleus, dorsal part",EPd,9,1,3,8690,942.0,6,1,559,/997/8/567/688/703/942/952/,A0EE9D,,,f,560,1669532679,734881840,Endopiriform nucleus dorsal part,61785
+312782652,,"Postrhinal area, layer 6b",VISpor6b,11,1,3,8690,312782628.0,8,1,219,/997/8/567/688/695/315/669/312782628/312782652/,08858C,,,f,220,4135573074,734881840,Postrhinal area layer 6b,300
+593,1064.0,"Primary visual area, layer 1",VISp1,11,1,3,8690,385.0,8,1,186,/997/8/567/688/695/315/669/385/593/,08858C,,,f,187,1371845489,734881840,Primary visual area layer 1,40638
+543,916.0,"Entorhinal area, medial part, dorsal zone, layer 2",ENTm2,11,1,3,8690,926.0,9,1,509,/997/8/567/688/695/1089/822/909/926/543/,32B825,,,f,510,379134723,734881840,Entorhinal area medial part dorsal zone layer 2,2695
+1128,989.0,"Primary somatosensory area, lower limb, layer 5",SSp-ll5,11,1,3,8690,337.0,9,1,69,/997/8/567/688/695/315/453/322/337/1128/,188064,,,f,70,1995492342,734881840,Primary somatosensory area lower limb layer 5,4880
+847,954.0,"Primary auditory area, layer 5",AUDp5,11,1,3,8690,1002.0,8,1,140,/997/8/567/688/695/315/247/1002/847/,019399,,,f,141,321552735,734881840,Primary auditory area layer 5,25162
+630,644.0,"Orbital area, lateral part, layer 5",ORBl5,11,1,3,8690,723.0,8,1,261,/997/8/567/688/695/315/714/723/630/,248A5E,,,f,262,293178623,734881840,Orbital area lateral part layer 5,65056
+312782648,,"Postrhinal area, layer 6a",VISpor6a,11,1,3,8690,312782628.0,8,1,218,/997/8/567/688/695/315/669/312782628/312782648/,08858C,,,f,219,1870039016,734881840,Postrhinal area layer 6a,5635
+927,964.0,"Anterior cingulate area, dorsal part, layer 6b",ACAd6b,11,1,3,8690,39.0,8,1,231,/997/8/567/688/695/315/31/39/927/,40A666,,,f,232,1998938750,734881840,Anterior cingulate area dorsal part layer 6b,183
+754,235.0,Olfactory tubercle,OT,8,1,3,8690,493.0,6,1,577,/997/8/567/623/477/493/754/,80CDF8,,,f,578,1598442672,734881840,Olfactory tubercle,22311
+672,83.0,Caudoputamen,CP,8,1,3,8690,485.0,6,1,573,/997/8/567/623/477/485/672/,98D6F9,,,f,574,2140591882,734881840,Caudoputamen,603914
+1026,1118.0,"Primary somatosensory area, upper limb, layer 6b",SSp-ul6b,11,1,3,8690,369.0,9,1,85,/997/8/567/688/695/315/453/322/369/1026/,188064,,,f,86,997472564,734881840,Primary somatosensory area upper limb layer 6b,2878
+526157192,,"Frontal pole, layer 5",FRP5,11,1,3,8690,184.0,7,1,9,/997/8/567/688/695/315/184/526157192/,268F45,,,f,10,1413248090,734881840,Frontal pole layer 5,6400
+950,967.0,"Primary somatosensory area, mouth, layer 4",SSp-m4,11,1,3,8690,345.0,9,1,75,/997/8/567/688/695/315/453/322/345/950/,188064,,,f,76,3488099998,734881840,Primary somatosensory area mouth layer 4,1634
+943,966.0,"Primary motor area, Layer 2/3",MOp2/3,11,1,3,8690,985.0,8,1,20,/997/8/567/688/695/315/500/985/943/,1F9D5A,,,f,21,2488357079,734881840,Primary motor area Layer 2/3,170868
+805,383.0,"posteromedial visual area, layer 1",VISpm1,11,1,3,8690,533.0,8,1,200,/997/8/567/688/695/315/669/533/805/,08858C,,,f,201,403944131,734881840,posteromedial visual area layer 1,4319
+1105,137.0,Intercalated amygdalar nucleus,IA,8,1,3,8690,278.0,6,1,599,/997/8/567/623/477/278/1105/,80C0E2,,,f,600,1834113869,734881840,Intercalated amygdalar nucleus,750
+786,1088.0,"Temporal association areas, layer 6b",TEa6b,11,1,3,8690,541.0,7,1,366,/997/8/567/688/695/315/541/786/,15B0B3,,,f,367,3588912826,734881840,Temporal association areas layer 6b,3722
+484682516,,"corpus callosum, body",ccb,9,1,3,8690,776.0,4,1,1198,/997/1009/983/776/484682516/,CCCCCC,,,f,1199,1909459776,734881840,corpus callosum body,194586
+810,1091.0,"Anterior cingulate area, ventral part, 6a",ACAv6a,11,1,3,8690,48.0,8,1,236,/997/8/567/688/695/315/31/48/810/,40A666,,,f,237,1257379109,734881840,Anterior cingulate area ventral part 6a,165
+590,639.0,"Retrosplenial area, ventral part, layer 6a",RSPv6a,11,1,3,8690,886.0,8,1,337,/997/8/567/688/695/315/254/886/590/,1AA698,,,f,338,884041004,734881840,Retrosplenial area ventral part layer 6a,432
+1090,1126.0,"Supplemental somatosensory area, layer 5",SSs5,11,1,3,8690,378.0,8,1,104,/997/8/567/688/695/315/453/378/1090/,188064,,,f,105,788174312,734881840,Supplemental somatosensory area layer 5,52342
+638,645.0,"Gustatory areas, layer 6a",GU6a,11,1,3,8690,1057.0,7,1,112,/997/8/567/688/695/315/1057/638/,009C75,,,f,113,3653947637,734881840,Gustatory areas layer 6a,2580
+656,930.0,"Secondary motor area, layer 1",MOs1,11,1,3,8690,993.0,8,1,25,/997/8/567/688/695/315/500/993/656/,1F9D5A,,,f,26,4032915713,734881840,Secondary motor area layer 1,348995
+997,-1.0,root,root,0,1,3,8690,,0,1,0,/997/,FFFFFF,,,f,1,385153371,734881840,root,1097
+312782586,,"Laterointermediate area, layer 4",VISli4,11,1,3,8690,312782574.0,8,1,209,/997/8/567/688/695/315/669/312782574/312782586/,08858C,,,f,210,4094011951,734881840,Laterointermediate area layer 4,3260
+312782620,,"Rostrolateral area, layer 6a",VISrl6a,11,1,3,8690,417.0,8,1,358,/997/8/567/688/695/315/22/417/312782620/,009FAC,,,f,359,1518183390,734881840,Rostrolateral area layer 6a,8609
+622,643.0,"Retrosplenial area, ventral part, layer 6b",RSPv6b,11,1,3,8690,886.0,8,1,338,/997/8/567/688/695/315/254/886/622/,1AA698,,,f,339,2914530454,734881840,Retrosplenial area ventral part layer 6b,7
+23,2.0,Anterior amygdalar area,AAA,8,1,3,8690,278.0,6,1,593,/997/8/567/623/477/278/23/,80C0E2,,,f,594,4252873038,734881840,Anterior amygdalar area,1281
+188,730.0,"Accessory olfactory bulb, glomerular layer",AOBgl,11,1,3,8690,151.0,7,1,387,/997/8/567/688/695/698/151/188/,9DF0D2,,,f,388,2369905656,734881840,Accessory olfactory bulb glomerular layer,15960
+443,479.0,dorsal hippocampal commissure,dhc,10,1,3,8690,618.0,6,1,1254,/997/1009/991/768/1099/618/443/,CCCCCC,,,f,1255,1923336249,734881840,dorsal hippocampal commissure,54456
+670,649.0,"Primary somatosensory area, trunk, layer 2/3",SSp-tr2/3,11,1,3,8690,361.0,9,1,88,/997/8/567/688/695/315/453/322/361/670/,188064,,,f,89,1192883470,734881840,Primary somatosensory area trunk layer 2/3,16200
+573,637.0,"Lateral visual area, layer 4",VISl4,11,1,3,8690,409.0,8,1,181,/997/8/567/688/695/315/669/409/573/,08858C,,,f,182,1575254223,734881840,Lateral visual area layer 4,7262
+330,1031.0,"Retrosplenial area, dorsal part, layer 6b",RSPd6b,11,1,3,8690,879.0,8,1,331,/997/8/567/688/695/315/254/879/330/,1AA698,,,f,332,3241479382,734881840,Retrosplenial area dorsal part layer 6b,299
+252,738.0,"Dorsal auditory area, layer 5",AUDd5,11,1,3,8690,1011.0,8,1,126,/997/8/567/688/695/315/247/1011/252/,019399,,,f,127,2928916084,734881840,Dorsal auditory area layer 5,15067
+312782550,,"Anterior area, layer 1",VISa1,11,1,3,8690,312782546.0,8,1,347,/997/8/567/688/695/315/22/312782546/312782550/,009FAC,,,f,348,10340068,734881840,Anterior area layer 1,15409
+234,1019.0,"Temporal association areas, layer 4",TEa4,11,1,3,8690,541.0,7,1,363,/997/8/567/688/695/315/541/234/,15B0B3,,,f,364,1800621898,734881840,Temporal association areas layer 4,15580
+507,204.0,Main olfactory bulb,MOB,8,1,3,8690,698.0,6,1,380,/997/8/567/688/695/698/507/,9AD2BD,,,f,381,2457606556,734881840,Main olfactory bulb,9352
+1081,983.0,"Infralimbic area, layer 6b",ILA6b,11,1,3,8690,44.0,7,1,251,/997/8/567/688/695/315/44/1081/,59B363,,,f,252,2961423984,734881840,Infralimbic area layer 6b,65
+311,38.0,"Basolateral amygdalar nucleus, posterior part",BLAp,9,1,3,8690,295.0,6,1,564,/997/8/567/688/703/295/311/,9DE79C,,,f,565,1545537085,734881840,Basolateral amygdalar nucleus posterior part,1163
+750,942.0,"Posterolateral visual area, layer 1",VISpl1,11,1,3,8690,425.0,8,1,193,/997/8/567/688/695/315/669/425/750/,08858C,,,f,194,3976061451,734881840,Posterolateral visual area layer 1,2892
+182305705,,"Primary somatosensory area, unassigned, layer 5",SSp-un5,11,1,3,8690,182305689.0,9,1,97,/997/8/567/688/695/315/453/322/182305689/182305705/,188064,,,f,98,1806412353,734881840,Primary somatosensory area unassigned layer 5,2756
+889,1101.0,"Primary somatosensory area, nose, layer 6a",SSp-n6a,11,1,3,8690,353.0,9,1,49,/997/8/567/688/695/315/453/322/353/889/,188064,,,f,50,3350071961,734881840,Primary somatosensory area nose layer 6a,5341
+905,1103.0,"Anterolateral visual area, layer 2/3",VISal2/3,11,1,3,8690,402.0,8,1,166,/997/8/567/688/695/315/669/402/905/,08858C,,,f,167,125014447,734881840,Anterolateral visual area layer 2/3,9430
+902,961.0,"Posterolateral visual area, layer 5",VISpl5,11,1,3,8690,425.0,8,1,196,/997/8/567/688/695/315/669/425/902/,08858C,,,f,197,3952092690,734881840,Posterolateral visual area layer 5,8138
+959,968.0,"Ventral auditory area, layer 1",AUDv1,11,1,3,8690,1018.0,8,1,151,/997/8/567/688/695/315/247/1018/959/,019399,,,f,152,2148641706,734881840,Ventral auditory area layer 1,310
+377,1037.0,"Posterolateral visual area, layer 6a",VISpl6a,11,1,3,8690,425.0,8,1,197,/997/8/567/688/695/315/669/425/377/,08858C,,,f,198,818416878,734881840,Posterolateral visual area layer 6a,2773
+882,1100.0,"Primary motor area, Layer 6b",MOp6b,11,1,3,8690,985.0,8,1,23,/997/8/567/688/695/315/500/985/882/,1F9D5A,,,f,24,1442896821,734881840,Primary motor area Layer 6b,4689
+251,1021.0,"Primary auditory area, layer 2/3",AUDp2/3,11,1,3,8690,1002.0,8,1,138,/997/8/567/688/695/315/247/1002/251/,019399,,,f,139,1321647110,734881840,Primary auditory area layer 2/3,11014
+964,544.0,"corpus callosum, extreme capsule",ee,9,1,3,8690,776.0,4,1,1194,/997/1009/983/776/964/,CCCCCC,,,f,1195,3643110747,734881840,corpus callosum extreme capsule,9452
+312782562,,"Anterior area, layer 5",VISa5,11,1,3,8690,312782546.0,8,1,350,/997/8/567/688/695/315/22/312782546/312782562/,009FAC,,,f,351,133169917,734881840,Anterior area layer 5,4840
+450,1046.0,"Primary somatosensory area, upper limb, layer 1",SSp-ul1,11,1,3,8690,369.0,9,1,80,/997/8/567/688/695/315/453/322/369/450/,188064,,,f,81,2333546951,734881840,Primary somatosensory area upper limb layer 1,16720
+312782554,,"Anterior area, layer 2/3",VISa2/3,11,1,3,8690,312782546.0,8,1,348,/997/8/567/688/695/315/22/312782546/312782554/,009FAC,,,f,349,2789647405,734881840,Anterior area layer 2/3,27038
+929,1106.0,"Primary somatosensory area, nose, layer 6b",SSp-n6b,11,1,3,8690,353.0,9,1,50,/997/8/567/688/695/315/453/322/353/929/,188064,,,f,51,1588026147,734881840,Primary somatosensory area nose layer 6b,1358
+1062,981.0,"Primary somatosensory area, barrel field, layer 6b",SSp-bfd6b,11,1,3,8690,329.0,9,1,57,/997/8/567/688/695/315/453/322/329/1062/,188064,,,f,58,455984295,734881840,Primary somatosensory area barrel field layer 6b,13108
+342,325.0,Substantia innominata,SI,8,1,3,8690,835.0,6,1,613,/997/8/567/623/803/835/342/,A2B1D8,,,f,614,4279866235,734881840,Substantia innominata,4882
+456,622.0,"Posterior auditory area, layer 6b",AUDpo6b,11,1,3,8690,1027.0,8,1,149,/997/8/567/688/695/315/247/1027/456/,019399,,,f,150,53076177,734881840,Posterior auditory area layer 6b,1453
+620,1067.0,"Orbital area, medial part, layer 5",ORBm5,11,1,3,8690,731.0,8,1,268,/997/8/567/688/695/315/714/731/620/,248A5E,,,f,269,1790560827,734881840,Orbital area medial part layer 5,2892
+304,886.0,"Prelimbic area, layer 2/3",PL2/3,11,1,3,8690,972.0,7,1,241,/997/8/567/688/695/315/972/304/,2FA850,,,f,242,612898740,734881840,Prelimbic area layer 2/3,3400
+625,1068.0,"Primary somatosensory area, upper limb, layer 5",SSp-ul5,11,1,3,8690,369.0,9,1,83,/997/8/567/688/695/315/453/322/369/625/,188064,,,f,84,2356862430,734881840,Primary somatosensory area upper limb layer 5,3715
+831,952.0,"Agranular insular area, dorsal part, layer 6b",AId6b,11,1,3,8690,104.0,8,1,284,/997/8/567/688/695/315/95/104/831/,219866,,,f,285,2036891461,734881840,Agranular insular area dorsal part layer 6b,1048
+510,629.0,"Primary somatosensory area, lower limb, layer 6b",SSp-ll6b,11,1,3,8690,337.0,9,1,71,/997/8/567/688/695/315/453/322/337/510/,188064,,,f,72,238754776,734881840,Primary somatosensory area lower limb layer 6b,3386
+484682512,,supra-callosal cerebral white matter,scwm,2,1,3,8690,1009.0,2,1,1189,/997/1009/484682512/,CCCCCC,,,f,1190,860296328,734881840,supra-callosal cerebral white matter,51762
+1045,1120.0,Ectorhinal area/Layer 6b,ECT6b,11,1,3,8690,895.0,7,1,378,/997/8/567/688/695/315/895/1045/,0D9F91,,,f,379,936163868,734881840,Ectorhinal area/Layer 6b,2593
+441,762.0,"Anteromedial visual area, layer 6b",VISam6b,11,1,3,8690,394.0,8,1,177,/997/8/567/688/695/315/669/394/441/,08858C,,,f,178,867517603,734881840,Anteromedial visual area layer 6b,891
+312782608,,"Rostrolateral area, layer 2/3",VISrl2/3,11,1,3,8690,417.0,8,1,355,/997/8/567/688/695/315/22/417/312782608/,009FAC,,,f,356,1695598268,734881840,Rostrolateral area layer 2/3,57495
+729,1081.0,"Temporal association areas, layer 6a",TEa6a,11,1,3,8690,541.0,7,1,365,/997/8/567/688/695/315/541/729/,15B0B3,,,f,366,1289955072,734881840,Temporal association areas layer 6a,45724
+1022,127.0,"Globus pallidus, external segment",GPe,8,1,3,8690,818.0,6,1,610,/997/8/567/623/803/818/1022/,8599CC,,,f,611,3096725950,734881840,Globus pallidus external segment,389
+97,1002.0,"Temporal association areas, layer 1",TEa1,11,1,3,8690,541.0,7,1,361,/997/8/567/688/695/315/541/97/,15B0B3,,,f,362,456768453,734881840,Temporal association areas layer 1,3699
+120,863.0,"Agranular insular area, posterior part, layer 1",AIp1,11,1,3,8690,111.0,8,1,286,/997/8/567/688/695/315/95/111/120/,219866,,,f,287,3201384576,734881840,Agranular insular area posterior part layer 1,1090
+906,820.0,"Retrosplenial area, lateral agranular part, layer 6a",RSPagl6a,11,1,3,8690,894.0,8,1,302,/997/8/567/688/695/315/254/894/906/,1AA698,,,f,303,1139806184,734881840,Retrosplenial area lateral agranular part layer 6a,6518
+335,890.0,"Perirhinal area, layer 6a",PERI6a,11,1,3,8690,922.0,7,1,371,/997/8/567/688/695/315/922/335/,0E9684,,,f,372,1984229208,734881840,Perirhinal area layer 6a,2349
+986,547.0,"corpus callosum, splenium",ccs,9,1,3,8690,776.0,4,1,1199,/997/1009/983/776/986/,CCCCCC,,,f,1200,2236557760,734881840,corpus callosum splenium,61337
+421,618.0,"Lateral visual area, layer 1",VISl1,11,1,3,8690,409.0,8,1,179,/997/8/567/688/695/315/669/409/421/,08858C,,,f,180,764316736,734881840,Lateral visual area layer 1,11276
+1111,987.0,"Primary somatosensory area, trunk, layer 5",SSp-tr5,11,1,3,8690,361.0,9,1,90,/997/8/567/688/695/315/453/322/361/1111/,188064,,,f,91,281768908,734881840,Primary somatosensory area trunk layer 5,3555
+427,1043.0,Ectorhinal area/Layer 2/3,ECT2/3,11,1,3,8690,895.0,7,1,375,/997/8/567/688/695/315/895/427/,0D9F91,,,f,376,993691642,734881840,Ectorhinal area/Layer 2/3,39400
+180,729.0,"Gustatory areas, layer 2/3",GU2/3,11,1,3,8690,1057.0,7,1,109,/997/8/567/688/695/315/1057/180/,009C75,,,f,110,3375335567,734881840,Gustatory areas layer 2/3,5
+935,965.0,"Anterior cingulate area, dorsal part, layer 1",ACAd1,11,1,3,8690,39.0,8,1,227,/997/8/567/688/695/315/31/39/935/,40A666,,,f,228,3009154534,734881840,Anterior cingulate area dorsal part layer 1,49605
+312782612,,"Rostrolateral area, layer 4",VISrl4,11,1,3,8690,417.0,8,1,356,/997/8/567/688/695/315/22/417/312782612/,009FAC,,,f,357,2568541333,734881840,Rostrolateral area layer 4,6621
+530,490.0,dorsal fornix,df,9,1,3,8690,1099.0,5,1,1246,/997/1009/991/768/1099/530/,CCCCCC,,,f,1247,2407031315,734881840,dorsal fornix,2978
+542,633.0,"Retrosplenial area, ventral part, layer 1",RSPv1,11,1,3,8690,886.0,8,1,333,/997/8/567/688/695/315/254/886/542/,1AA698,,,f,334,1320301965,734881840,Retrosplenial area ventral part layer 1,19787
+849,1096.0,"Visceral area, layer 6b",VISC6b,11,1,3,8690,677.0,7,1,120,/997/8/567/688/695/315/677/849/,11AD83,,,f,121,2752264138,734881840,Visceral area layer 6b,5486
+610,1066.0,"Retrosplenial area, dorsal part, layer 5",RSPd5,11,1,3,8690,879.0,8,1,329,/997/8/567/688/695/315/254/879/610/,1AA698,,,f,330,3262274752,734881840,Retrosplenial area dorsal part layer 5,9401
+540,1057.0,"Perirhinal area, layer 1",PERI1,11,1,3,8690,922.0,7,1,368,/997/8/567/688/695/315/922/540/,0E9684,,,f,369,161492388,734881840,Perirhinal area layer 1,21040
+597,357.0,"Taenia tecta, dorsal part",TTd,9,1,3,8690,589.0,7,1,399,/997/8/567/688/695/698/589/597/,62D09F,,,f,400,2019823208,734881840,Taenia tecta dorsal part,8599
+526322264,,"Frontal pole, layer 6b",FRP6b,11,1,3,8690,184.0,7,1,11,/997/8/567/688/695/315/184/526322264/,268F45,,,f,12,3514382500,734881840,Frontal pole layer 6b,63
+108,720.0,choroid plexus,chpl,9,1,3,8690,81.0,3,1,1296,/997/73/81/108/,AAAAAA,,,f,1297,1492204019,734881840,choroid plexus,47
+501,628.0,"posteromedial visual area, layer 4",VISpm4,11,1,3,8690,533.0,8,1,202,/997/8/567/688/695/315/669/533/501/,08858C,,,f,203,1752778316,734881840,posteromedial visual area layer 4,1212
+774,945.0,"Retrosplenial area, lateral agranular part, layer 5",RSPagl5,11,1,3,8690,894.0,8,1,301,/997/8/567/688/695/315/254/894/774/,1AA698,,,f,302,260416405,734881840,Retrosplenial area lateral agranular part layer 5,3539
+759,943.0,"Posterior auditory area, layer 4",AUDpo4,11,1,3,8690,1027.0,8,1,146,/997/8/567/688/695/315/247/1027/759/,019399,,,f,147,2120666346,734881840,Posterior auditory area layer 4,986
+478,625.0,"Primary somatosensory area, lower limb, layer 6a",SSp-ll6a,11,1,3,8690,337.0,9,1,70,/997/8/567/688/695/315/453/322/337/478/,188064,,,f,71,2536655458,734881840,Primary somatosensory area lower limb layer 6a,21842
+430,619.0,"Retrosplenial area, ventral part, layer 2/3",RSPv2/3,11,1,3,8690,886.0,8,1,335,/997/8/567/688/695/315/254/886/430/,1AA698,,,f,336,919443786,734881840,Retrosplenial area ventral part layer 2/3,1606
+312782598,,"Laterointermediate area, layer 6b",VISli6b,11,1,3,8690,312782574.0,8,1,212,/997/8/567/688/695/315/669/312782574/312782598/,08858C,,,f,213,3903698312,734881840,Laterointermediate area layer 6b,1614
+1089,135.0,Hippocampal formation,HPF,5,1,3,8690,695.0,5,1,454,/997/8/567/688/695/1089/,7ED04B,,,f,455,702348177,734881840,Hippocampal formation,1261
+121,1005.0,"Lateral visual area, layer 6b",VISl6b,11,1,3,8690,409.0,8,1,184,/997/8/567/688/695/315/669/409/121/,08858C,,,f,185,1208923682,734881840,Lateral visual area layer 6b,959
+33,428.0,"Primary visual area, layer 6a",VISp6a,11,1,3,8690,385.0,8,1,190,/997/8/567/688/695/315/669/385/33/,08858C,,,f,191,2158341533,734881840,Primary visual area layer 6a,23748
+816,950.0,"Primary auditory area, layer 4",AUDp4,11,1,3,8690,1002.0,8,1,139,/997/8/567/688/695/315/247/1002/816/,019399,,,f,140,1680716233,734881840,Primary auditory area layer 4,2458
+803,241.0,Pallidum,PAL,5,1,3,8690,623.0,4,1,608,/997/8/567/623/803/,8599CC,,,f,609,1451914672,734881840,Pallidum,20
+52,996.0,"Entorhinal area, lateral part, layer 3",ENTl3,11,1,3,8690,918.0,9,1,500,/997/8/567/688/695/1089/822/909/918/52/,32B825,,,f,501,2381220030,734881840,Entorhinal area lateral part layer 3,98284
+767,944.0,"Secondary motor area, layer 5",MOs5,11,1,3,8690,993.0,8,1,27,/997/8/567/688/695/315/500/993/767/,1F9D5A,,,f,28,4144803096,734881840,Secondary motor area layer 5,240139
+1037,270.0,Postsubiculum,POST,8,1,3,8690,822.0,7,1,527,/997/8/567/688/695/1089/822/1037/,48C83C,,,f,528,2028146433,734881840,Postsubiculum,328
+1102,986.0,"Primary somatosensory area, mouth, layer 6a",SSp-m6a,11,1,3,8690,345.0,9,1,77,/997/8/567/688/695/315/453/322/345/1102/,188064,,,f,78,3455683244,734881840,Primary somatosensory area mouth layer 6a,4135
+869,957.0,"Posterolateral visual area, layer 4",VISpl4,11,1,3,8690,425.0,8,1,195,/997/8/567/688/695/315/669/425/869/,08858C,,,f,196,2627147396,734881840,Posterolateral visual area layer 4,434
+201,1015.0,"Primary somatosensory area, barrel field, layer 2/3",SSp-bfd2/3,11,1,3,8690,329.0,9,1,53,/997/8/567/688/695/315/453/322/329/201/,188064,,,f,54,1738869888,734881840,Primary somatosensory area barrel field layer 2/3,397542
+966,120.0,"Endopiriform nucleus, ventral part",EPv,9,1,3,8690,942.0,6,1,560,/997/8/567/688/703/942/966/,A0EE9D,,,f,561,870822862,734881840,Endopiriform nucleus ventral part,10576
+484682470,,Prosubiculum,ProS,8,1,3,8690,822.0,7,1,544,/997/8/567/688/695/1089/822/484682470/,58BA48,,,f,545,2109060151,734881840,Prosubiculum,253
+1030,977.0,"Primary somatosensory area, lower limb, layer 1",SSp-ll1,11,1,3,8690,337.0,9,1,66,/997/8/567/688/695/315/453/322/337/1030/,188064,,,f,67,1906118639,734881840,Primary somatosensory area lower limb layer 1,4953
+1010,1116.0,"Visceral area, layer 4",VISC4,11,1,3,8690,677.0,7,1,117,/997/8/567/688/695/315/677/1010/,11AD83,,,f,118,1016575502,734881840,Visceral area layer 4,5394
+699,1077.0,"Agranular insular area, ventral part, layer 6b",AIv6b,11,1,3,8690,119.0,8,1,296,/997/8/567/688/695/315/95/119/699/,219866,,,f,297,3288771355,734881840,Agranular insular area ventral part layer 6b,169
+312782578,,"Laterointermediate area, layer 1",VISli1,11,1,3,8690,312782574.0,8,1,207,/997/8/567/688/695/315/669/312782574/312782578/,08858C,,,f,208,2221891232,734881840,Laterointermediate area layer 1,5745
+312782644,,"Postrhinal area, layer 5",VISpor5,11,1,3,8690,312782628.0,8,1,217,/997/8/567/688/695/315/669/312782628/312782644/,08858C,,,f,218,1351821355,734881840,Postrhinal area layer 5,25095
+484682508,,Area prostriata,APr,8,1,3,8690,822.0,7,1,554,/997/8/567/688/695/1089/822/484682508/,33B932,,,f,555,407768279,734881840,Area prostriata,265
+639,79.0,"Cortical amygdalar area, anterior part",COAa,9,1,3,8690,631.0,7,1,427,/997/8/567/688/695/698/631/639/,61E7B7,,,f,428,3687551647,734881840,Cortical amygdalar area anterior part,1251
+1094,985.0,"Primary somatosensory area, lower limb, layer 4",SSp-ll4,11,1,3,8690,337.0,9,1,68,/997/8/567/688/695/315/453/322/337/1094/,188064,,,f,69,33028960,734881840,Primary somatosensory area lower limb layer 4,2410
+1054,980.0,"Infralimbic area, layer 6a",ILA6a,11,1,3,8690,44.0,7,1,250,/997/8/567/688/695/315/44/1054/,59B363,,,f,251,696971210,734881840,Infralimbic area layer 6a,179
+182305713,,"Primary somatosensory area, unassigned, layer 6b",SSp-un6b,11,1,3,8690,182305689.0,9,1,99,/997/8/567/688/695/315/453/322/182305689/182305713/,188064,,,f,100,1529046678,734881840,Primary somatosensory area unassigned layer 6b,1585
+735,940.0,"Primary auditory area, layer 1",AUDp1,11,1,3,8690,1002.0,8,1,137,/997/8/567/688/695/315/247/1002/735/,019399,,,f,138,340215110,734881840,Primary auditory area layer 1,12318
+671,932.0,"Retrosplenial area, lateral agranular part, layer 1",RSPagl1,11,1,3,8690,894.0,8,1,299,/997/8/567/688/695/315/254/894/671/,1AA698,,,f,300,149448588,734881840,Retrosplenial area lateral agranular part layer 1,2117
+981,971.0,"Primary somatosensory area, barrel field, layer 1",SSp-bfd1,11,1,3,8690,329.0,9,1,52,/997/8/567/688/695/315/453/322/329/981/,188064,,,f,53,3178183090,734881840,Primary somatosensory area barrel field layer 1,460051
+1106,1128.0,"Visceral area, layer 2/3",VISC2/3,11,1,3,8690,677.0,7,1,116,/997/8/567/688/695/315/677/1106/,11AD83,,,f,117,1410936982,734881840,Visceral area layer 2/3,1628
+662,648.0,"Gustatory areas, layer 6b",GU6b,11,1,3,8690,1057.0,7,1,113,/997/8/567/688/695/315/1057/662/,009C75,,,f,114,1086554447,734881840,Gustatory areas layer 6b,445
+836,1094.0,Ectorhinal area/Layer 1,ECT1,11,1,3,8690,895.0,7,1,374,/997/8/567/688/695/315/895/836/,0D9F91,,,f,375,2240743692,734881840,Ectorhinal area/Layer 1,3442
+527,631.0,"Dorsal auditory area, layer 1",AUDd1,11,1,3,8690,1011.0,8,1,123,/997/8/567/688/695/315/247/1011/527/,019399,,,f,124,2852024941,734881840,Dorsal auditory area layer 1,16391
+884,534.0,amygdalar capsule,amc,8,1,3,8690,768.0,4,1,1240,/997/1009/991/768/884/,CCCCCC,,,f,1241,4125640418,734881840,amygdalar capsule,3820
+974,970.0,"Primary somatosensory area, mouth, layer 5",SSp-m5,11,1,3,8690,345.0,9,1,76,/997/8/567/688/695/315/453/322/345/974/,188064,,,f,77,3102678536,734881840,Primary somatosensory area mouth layer 5,105
+819,1092.0,"Anterior cingulate area, ventral part, 6b",ACAv6b,11,1,3,8690,48.0,8,1,237,/997/8/567/688/695/315/31/48/819/,40A666,,,f,238,3556459679,734881840,Anterior cingulate area ventral part 6b,32
+665,507.0,"lateral olfactory tract, body",lot,10,1,3,8690,21.0,5,1,1108,/997/1009/967/840/21/665/,CCCCCC,,,f,1109,2791586724,734881840,lateral olfactory tract body,216
+857,1097.0,"Visceral area, layer 6a",VISC6a,11,1,3,8690,677.0,7,1,119,/997/8/567/688/695/315/677/857/,11AD83,,,f,120,1023764080,734881840,Visceral area layer 6a,30085
+182305697,,"Primary somatosensory area, unassigned, layer 2/3",SSp-un2/3,11,1,3,8690,182305689.0,9,1,95,/997/8/567/688/695/315/453/322/182305689/182305697/,188064,,,f,96,909836824,734881840,Primary somatosensory area unassigned layer 2/3,26950
+588,1063.0,"Anterior cingulate area, ventral part, layer 1",ACAv1,11,1,3,8690,48.0,8,1,233,/997/8/567/688/695/315/31/48/588/,40A666,,,f,234,4171389733,734881840,Anterior cingulate area ventral part layer 1,498
+113,1004.0,"Primary somatosensory area, lower limb, layer 2/3",SSp-ll2/3,11,1,3,8690,337.0,9,1,67,/997/8/567/688/695/315/453/322/337/113/,188064,,,f,68,2802480882,734881840,Primary somatosensory area lower limb layer 2/3,9923
+520,630.0,"Ventral auditory area, layer 6a",AUDv6a,11,1,3,8690,1018.0,8,1,155,/997/8/567/688/695/315/247/1018/520/,019399,,,f,156,2440393689,734881840,Ventral auditory area layer 6a,23423
+298,178.0,Magnocellular nucleus,MA,8,1,3,8690,835.0,6,1,614,/997/8/567/623/803/835/298/,A2B1D8,,,f,615,1799914489,734881840,Magnocellular nucleus,1
+1066,1123.0,"Anteromedial visual area, layer 2/3",VISam2/3,11,1,3,8690,394.0,8,1,173,/997/8/567/688/695/315/669/394/1066/,08858C,,,f,174,1625313305,734881840,Anteromedial visual area layer 2/3,9800
+702,653.0,"Primary somatosensory area, nose, layer 5",SSp-n5,11,1,3,8690,353.0,9,1,48,/997/8/567/688/695/315/453/322/353/702/,188064,,,f,49,4022406278,734881840,Primary somatosensory area nose layer 5,1702
+249,455.0,"Posterior auditory area, layer 6a",AUDpo6a,11,1,3,8690,1027.0,8,1,148,/997/8/567/688/695/315/247/1027/249/,019399,,,f,149,2585833835,734881840,Posterior auditory area layer 6a,7624
+312782558,,"Anterior area, layer 4",VISa4,11,1,3,8690,312782546.0,8,1,349,/997/8/567/688/695/315/22/312782546/312782558/,009FAC,,,f,350,1895248491,734881840,Anterior area layer 4,4741
+451,763.0,"Basolateral amygdalar nucleus, ventral part",BLAv,9,1,3,8690,295.0,6,1,565,/997/8/567/688/703/295/451/,9DE79C,,,f,566,1149064021,734881840,Basolateral amygdalar nucleus ventral part,2211
+312782636,,"Postrhinal area, layer 2/3",VISpor2/3,11,1,3,8690,312782628.0,8,1,215,/997/8/567/688/695/315/669/312782628/312782636/,08858C,,,f,216,2862569473,734881840,Postrhinal area layer 2/3,37967
+433,1044.0,"Anteromedial visual area, layer 5",VISam5,11,1,3,8690,394.0,8,1,175,/997/8/567/688/695/315/669/394/433/,08858C,,,f,176,540698515,734881840,Anteromedial visual area layer 5,1425
+526157196,,"Frontal pole, layer 6a",FRP6a,11,1,3,8690,184.0,7,1,10,/997/8/567/688/695/315/184/526157196/,268F45,,,f,11,1215326494,734881840,Frontal pole layer 6a,3055
+675,1074.0,"Agranular insular area, ventral part, layer 6a",AIv6a,11,1,3,8690,119.0,8,1,295,/997/8/567/688/695/315/95/119/675/,219866,,,f,296,1561328289,734881840,Agranular insular area ventral part layer 6a,9926
+664,931.0,"Entorhinal area, medial part, dorsal zone, layer 3",ENTm3,11,1,3,8690,926.0,9,1,512,/997/8/567/688/695/1089/822/909/926/664/,32B825,,,f,513,1637749653,734881840,Entorhinal area medial part dorsal zone layer 3,1991
+56,6.0,Nucleus accumbens,ACB,8,1,3,8690,493.0,6,1,575,/997/8/567/623/477/493/56/,80CDF8,,,f,576,2053079136,734881840,Nucleus accumbens,15732
+814,384.0,Dorsal peduncular area,DP,8,1,3,8690,698.0,6,1,410,/997/8/567/688/695/698/814/,A4DAA4,,,f,411,327990420,734881840,Dorsal peduncular area,4944
+268,740.0,"Nucleus of the lateral olfactory tract, pyramidal layer",NLOT2,11,1,3,8690,619.0,7,1,424,/997/8/567/688/695/698/619/268/,95E4C8,,,f,425,4179370816,734881840,Nucleus of the lateral olfactory tract pyramidal layer,213
+477,342.0,Striatum,STR,5,1,3,8690,623.0,4,1,571,/997/8/567/623/477/,98D6F9,,,f,572,3310200382,734881840,Striatum,15350
+1021,1117.0,"Secondary motor area, layer 6a",MOs6a,11,1,3,8690,993.0,8,1,28,/997/8/567/688/695/315/500/993/1021/,1F9D5A,,,f,29,3489757563,734881840,Secondary motor area layer 6a,111420
+442,1045.0,"Retrosplenial area, dorsal part, layer 1",RSPd1,11,1,3,8690,879.0,8,1,326,/997/8/567/688/695/315/254/879/442/,1AA698,,,f,327,3307182297,734881840,Retrosplenial area dorsal part layer 1,2759
+484,1050.0,"Orbital area, medial part, layer 1",ORBm1,11,1,3,8690,731.0,8,1,265,/997/8/567/688/695/315/714/731/484/,248A5E,,,f,266,1842613794,734881840,Orbital area medial part layer 1,5320
+800,948.0,"Agranular insular area, ventral part, layer 5",AIv5,11,1,3,8690,119.0,8,1,294,/997/8/567/688/695/315/95/119/800/,219866,,,f,295,4051862023,734881840,Agranular insular area ventral part layer 5,27336
+910,962.0,"Orbital area, medial part, layer 6a",ORBm6a,11,1,3,8690,731.0,8,1,269,/997/8/567/688/695/315/714/731/910/,248A5E,,,f,270,1929100654,734881840,Orbital area medial part layer 6a,2108
+1070,982.0,"Primary somatosensory area, barrel field, layer 5",SSp-bfd5,11,1,3,8690,329.0,9,1,55,/997/8/567/688/695/315/453/322/329/1070/,188064,,,f,56,3120758187,734881840,Primary somatosensory area barrel field layer 5,40168

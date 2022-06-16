@@ -1,0 +1,60 @@
+id,atlas_id,name,acronym,st_level,ontology_id,hemisphere_id,weight,parent_structure_id,depth,graph_id,graph_order,structure_id_path,color_hex_triplet,neuro_name_structure_id,neuro_name_structure_id_path,failed,sphinx_id,structure_name_facet,failed_facet,safe_name,counts
+1035,1119.0,"Supplemental somatosensory area, layer 4",SSs4,11,1,3,8690,378.0,8,1,103,/997/8/567/688/695/315/453/378/1035/,188064,,,f,104,1509795198,734881840,Supplemental somatosensory area layer 4,1115
+1047,979.0,"Primary somatosensory area, barrel field, layer 4",SSp-bfd4,11,1,3,8690,329.0,9,1,54,/997/8/567/688/695/315/453/322/329/1047/,188064,,,f,55,3439709501,734881840,Primary somatosensory area barrel field layer 4,41098
+821,951.0,"Primary visual area, layer 2/3",VISp2/3,11,1,3,8690,385.0,8,1,187,/997/8/567/688/695/315/669/385/821/,08858C,,,f,188,2317291160,734881840,Primary visual area layer 2/3,268
+461,623.0,"Primary somatosensory area, trunk, layer 6b",SSp-tr6b,11,1,3,8690,361.0,9,1,92,/997/8/567/688/695/315/453/322/361/461/,188064,,,f,93,3360815570,734881840,Primary somatosensory area trunk layer 6b,33
+312782570,,"Anterior area, layer 6b",VISa6b,11,1,3,8690,312782546.0,8,1,352,/997/8/567/688/695/315/22/312782546/312782570/,009FAC,,,f,353,2576925337,734881840,Anterior area layer 6b,3
+945,1108.0,"Primary somatosensory area, upper limb, layer 6a",SSp-ul6a,11,1,3,8690,369.0,9,1,84,/997/8/567/688/695/315/453/322/369/945/,188064,,,f,85,2726127758,734881840,Primary somatosensory area upper limb layer 6a,29
+893,960.0,"Supplemental somatosensory area, layer 6b",SSs6b,11,1,3,8690,378.0,8,1,106,/997/8/567/688/695/315/453/378/893/,188064,,,f,107,4100730085,734881840,Supplemental somatosensory area layer 6b,58
+654,647.0,"Primary somatosensory area, nose, layer 4",SSp-n4,11,1,3,8690,353.0,9,1,47,/997/8/567/688/695/315/453/322/353/654/,188064,,,f,48,2563128336,734881840,Primary somatosensory area nose layer 4,661
+838,953.0,"Primary somatosensory area, nose, layer 2/3",SSp-n2/3,11,1,3,8690,353.0,9,1,46,/997/8/567/688/695/315/453/322/353/838/,188064,,,f,47,2369110310,734881840,Primary somatosensory area nose layer 2/3,4921
+873,1099.0,"Supplemental somatosensory area, layer 1",SSs1,11,1,3,8690,378.0,8,1,101,/997/8/567/688/695/315/453/378/873/,188064,,,f,102,697782769,734881840,Supplemental somatosensory area layer 1,152
+182305701,,"Primary somatosensory area, unassigned, layer 4",SSp-un4,11,1,3,8690,182305689.0,9,1,96,/997/8/567/688/695/315/453/322/182305689/182305701/,188064,,,f,97,481073879,734881840,Primary somatosensory area unassigned layer 4,1747
+182305709,,"Primary somatosensory area, unassigned, layer 6a",SSp-un6a,11,1,3,8690,182305689.0,9,1,98,/997/8/567/688/695/315/453/322/182305689/182305709/,188064,,,f,99,3257546540,734881840,Primary somatosensory area unassigned layer 6a,814
+182305693,,"Primary somatosensory area, unassigned, layer 1",SSp-un1,11,1,3,8690,182305689.0,9,1,94,/997/8/567/688/695/315/453/322/182305689/182305693/,188064,,,f,95,1824943704,734881840,Primary somatosensory area unassigned layer 1,1563
+312782566,,"Anterior area, layer 6a",VISa6a,11,1,3,8690,312782546.0,8,1,351,/997/8/567/688/695/315/22/312782546/312782566/,009FAC,,,f,352,9540387,734881840,Anterior area layer 6a,21
+1038,978.0,"Primary somatosensory area, barrel field, layer 6a",SSp-bfd6a,11,1,3,8690,329.0,9,1,56,/997/8/567/688/695/315/453/322/329/1038/,188064,,,f,57,2183435549,734881840,Primary somatosensory area barrel field layer 6a,31700
+854,955.0,"Primary somatosensory area, upper limb, layer 2/3",SSp-ul2/3,11,1,3,8690,369.0,9,1,81,/997/8/567/688/695/315/453/322/369/854/,188064,,,f,82,243505027,734881840,Primary somatosensory area upper limb layer 2/3,605
+463,57.0,Field CA3,CA3,9,1,3,8690,375.0,8,1,467,/997/8/567/688/695/1089/1080/375/463/,7ED04B,,,f,468,3396545448,734881840,Field CA3,18409
+940,541.0,cingulum bundle,cing,8,1,3,8690,768.0,4,1,1243,/997/1009/991/768/940/,CCCCCC,,,f,1244,1622445056,734881840,cingulum bundle,60
+862,956.0,"Supplemental somatosensory area, layer 6a",SSs6a,11,1,3,8690,378.0,8,1,105,/997/8/567/688/695/315/453/378/862/,188064,,,f,106,1835367775,734881840,Supplemental somatosensory area layer 6a,1741
+1006,974.0,"Primary somatosensory area, trunk, layer 1",SSp-tr1,11,1,3,8690,361.0,9,1,87,/997/8/567/688/695/315/453/322/361/1006/,188064,,,f,88,396802005,734881840,Primary somatosensory area trunk layer 1,36
+558,635.0,"Primary somatosensory area, nose, layer 1",SSp-n1,11,1,3,8690,353.0,9,1,45,/997/8/567/688/695/315/453/322/353/558/,188064,,,f,46,3903637663,734881840,Primary somatosensory area nose layer 1,343
+806,949.0,"Supplemental somatosensory area, layer 2/3",SSs2/3,11,1,3,8690,378.0,8,1,102,/997/8/567/688/695/315/453/378/806/,188064,,,f,103,4288179668,734881840,Supplemental somatosensory area layer 2/3,6683
+312782604,,"Rostrolateral area, layer 1",VISrl1,11,1,3,8690,417.0,8,1,354,/997/8/567/688/695/315/22/417/312782604/,009FAC,,,f,355,3916570650,734881840,Rostrolateral area layer 1,270
+484682528,,commissural branch of stria terminalis,stc,9,1,3,8690,301.0,5,1,1260,/997/1009/991/768/301/484682528/,CCCCCC,,,f,1261,2072512978,734881840,commissural branch of stria terminalis,56398
+423,52.0,Field CA2,CA2,9,1,3,8690,375.0,8,1,462,/997/8/567/688/695/1089/1080/375/423/,7ED04B,,,f,463,3178502974,734881840,Field CA2,8508
+9,991.0,"Primary somatosensory area, trunk, layer 6a",SSp-tr6a,11,1,3,8690,361.0,9,1,91,/997/8/567/688/695/315/453/322/361/9/,188064,,,f,92,1364764776,734881840,Primary somatosensory area trunk layer 6a,3
+312782616,,"Rostrolateral area, layer 5",VISrl5,11,1,3,8690,417.0,8,1,357,/997/8/567/688/695/315/22/417/312782616/,009FAC,,,f,358,3995067395,734881840,Rostrolateral area layer 5,351
+466,482.0,alveus,alv,9,1,3,8690,1099.0,5,1,1245,/997/1009/991/768/1099/466/,CCCCCC,,,f,1246,3047472302,734881840,alveus,19123
+593,1064.0,"Primary visual area, layer 1",VISp1,11,1,3,8690,385.0,8,1,186,/997/8/567/688/695/315/669/385/593/,08858C,,,f,187,1371845489,734881840,Primary visual area layer 1,247
+1128,989.0,"Primary somatosensory area, lower limb, layer 5",SSp-ll5,11,1,3,8690,337.0,9,1,69,/997/8/567/688/695/315/453/322/337/1128/,188064,,,f,70,1995492342,734881840,Primary somatosensory area lower limb layer 5,2227
+672,83.0,Caudoputamen,CP,8,1,3,8690,485.0,6,1,573,/997/8/567/623/477/485/672/,98D6F9,,,f,574,2140591882,734881840,Caudoputamen,5977
+1026,1118.0,"Primary somatosensory area, upper limb, layer 6b",SSp-ul6b,11,1,3,8690,369.0,9,1,85,/997/8/567/688/695/315/453/322/369/1026/,188064,,,f,86,997472564,734881840,Primary somatosensory area upper limb layer 6b,6
+484682516,,"corpus callosum, body",ccb,9,1,3,8690,776.0,4,1,1198,/997/1009/983/776/484682516/,CCCCCC,,,f,1199,1909459776,734881840,corpus callosum body,49841
+1090,1126.0,"Supplemental somatosensory area, layer 5",SSs5,11,1,3,8690,378.0,8,1,104,/997/8/567/688/695/315/453/378/1090/,188064,,,f,105,788174312,734881840,Supplemental somatosensory area layer 5,1593
+997,-1.0,root,root,0,1,3,8690,,0,1,0,/997/,FFFFFF,,,f,1,385153371,734881840,root,254
+443,479.0,dorsal hippocampal commissure,dhc,10,1,3,8690,618.0,6,1,1254,/997/1009/991/768/1099/618/443/,CCCCCC,,,f,1255,1923336249,734881840,dorsal hippocampal commissure,13407
+670,649.0,"Primary somatosensory area, trunk, layer 2/3",SSp-tr2/3,11,1,3,8690,361.0,9,1,88,/997/8/567/688/695/315/453/322/361/670/,188064,,,f,89,1192883470,734881840,Primary somatosensory area trunk layer 2/3,61
+182305705,,"Primary somatosensory area, unassigned, layer 5",SSp-un5,11,1,3,8690,182305689.0,9,1,97,/997/8/567/688/695/315/453/322/182305689/182305705/,188064,,,f,98,1806412353,734881840,Primary somatosensory area unassigned layer 5,940
+889,1101.0,"Primary somatosensory area, nose, layer 6a",SSp-n6a,11,1,3,8690,353.0,9,1,49,/997/8/567/688/695/315/453/322/353/889/,188064,,,f,50,3350071961,734881840,Primary somatosensory area nose layer 6a,693
+450,1046.0,"Primary somatosensory area, upper limb, layer 1",SSp-ul1,11,1,3,8690,369.0,9,1,80,/997/8/567/688/695/315/453/322/369/450/,188064,,,f,81,2333546951,734881840,Primary somatosensory area upper limb layer 1,60
+312782554,,"Anterior area, layer 2/3",VISa2/3,11,1,3,8690,312782546.0,8,1,348,/997/8/567/688/695/315/22/312782546/312782554/,009FAC,,,f,349,2789647405,734881840,Anterior area layer 2/3,60
+929,1106.0,"Primary somatosensory area, nose, layer 6b",SSp-n6b,11,1,3,8690,353.0,9,1,50,/997/8/567/688/695/315/453/322/353/929/,188064,,,f,51,1588026147,734881840,Primary somatosensory area nose layer 6b,36
+1062,981.0,"Primary somatosensory area, barrel field, layer 6b",SSp-bfd6b,11,1,3,8690,329.0,9,1,57,/997/8/567/688/695/315/453/322/329/1062/,188064,,,f,58,455984295,734881840,Primary somatosensory area barrel field layer 6b,2504
+625,1068.0,"Primary somatosensory area, upper limb, layer 5",SSp-ul5,11,1,3,8690,369.0,9,1,83,/997/8/567/688/695/315/453/322/369/625/,188064,,,f,84,2356862430,734881840,Primary somatosensory area upper limb layer 5,106
+510,629.0,"Primary somatosensory area, lower limb, layer 6b",SSp-ll6b,11,1,3,8690,337.0,9,1,71,/997/8/567/688/695/315/453/322/337/510/,188064,,,f,72,238754776,734881840,Primary somatosensory area lower limb layer 6b,199
+484682512,,supra-callosal cerebral white matter,scwm,2,1,3,8690,1009.0,2,1,1189,/997/1009/484682512/,CCCCCC,,,f,1190,860296328,734881840,supra-callosal cerebral white matter,7992
+312782608,,"Rostrolateral area, layer 2/3",VISrl2/3,11,1,3,8690,417.0,8,1,355,/997/8/567/688/695/315/22/417/312782608/,009FAC,,,f,356,1695598268,734881840,Rostrolateral area layer 2/3,3159
+986,547.0,"corpus callosum, splenium",ccs,9,1,3,8690,776.0,4,1,1199,/997/1009/983/776/986/,CCCCCC,,,f,1200,2236557760,734881840,corpus callosum splenium,1668
+312782612,,"Rostrolateral area, layer 4",VISrl4,11,1,3,8690,417.0,8,1,356,/997/8/567/688/695/315/22/417/312782612/,009FAC,,,f,357,2568541333,734881840,Rostrolateral area layer 4,905
+530,490.0,dorsal fornix,df,9,1,3,8690,1099.0,5,1,1246,/997/1009/991/768/1099/530/,CCCCCC,,,f,1247,2407031315,734881840,dorsal fornix,984
+108,720.0,choroid plexus,chpl,9,1,3,8690,81.0,3,1,1296,/997/73/81/108/,AAAAAA,,,f,1297,1492204019,734881840,choroid plexus,11
+478,625.0,"Primary somatosensory area, lower limb, layer 6a",SSp-ll6a,11,1,3,8690,337.0,9,1,70,/997/8/567/688/695/315/453/322/337/478/,188064,,,f,71,2536655458,734881840,Primary somatosensory area lower limb layer 6a,1667
+201,1015.0,"Primary somatosensory area, barrel field, layer 2/3",SSp-bfd2/3,11,1,3,8690,329.0,9,1,53,/997/8/567/688/695/315/453/322/329/201/,188064,,,f,54,1738869888,734881840,Primary somatosensory area barrel field layer 2/3,152049
+1094,985.0,"Primary somatosensory area, lower limb, layer 4",SSp-ll4,11,1,3,8690,337.0,9,1,68,/997/8/567/688/695/315/453/322/337/1094/,188064,,,f,69,33028960,734881840,Primary somatosensory area lower limb layer 4,187
+182305713,,"Primary somatosensory area, unassigned, layer 6b",SSp-un6b,11,1,3,8690,182305689.0,9,1,99,/997/8/567/688/695/315/453/322/182305689/182305713/,188064,,,f,100,1529046678,734881840,Primary somatosensory area unassigned layer 6b,97
+981,971.0,"Primary somatosensory area, barrel field, layer 1",SSp-bfd1,11,1,3,8690,329.0,9,1,52,/997/8/567/688/695/315/453/322/329/981/,188064,,,f,53,3178183090,734881840,Primary somatosensory area barrel field layer 1,18369
+182305697,,"Primary somatosensory area, unassigned, layer 2/3",SSp-un2/3,11,1,3,8690,182305689.0,9,1,95,/997/8/567/688/695/315/453/322/182305689/182305697/,188064,,,f,96,909836824,734881840,Primary somatosensory area unassigned layer 2/3,6891
+702,653.0,"Primary somatosensory area, nose, layer 5",SSp-n5,11,1,3,8690,353.0,9,1,48,/997/8/567/688/695/315/453/322/353/702/,188064,,,f,49,4022406278,734881840,Primary somatosensory area nose layer 5,837
+1070,982.0,"Primary somatosensory area, barrel field, layer 5",SSp-bfd5,11,1,3,8690,329.0,9,1,55,/997/8/567/688/695/315/453/322/329/1070/,188064,,,f,56,3120758187,734881840,Primary somatosensory area barrel field layer 5,28624
