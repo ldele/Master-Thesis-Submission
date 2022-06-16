@@ -1,7 +1,7 @@
 ## Master Thesis
 
-In this repository, you will find my results and code.
+Results and code.
 
-As of June 17th:
-/!\ I had not the time to completely comment code and notebooks
+**June 17th**: <br/>
+/!\ Code and notebooks are not yet commented.
  
